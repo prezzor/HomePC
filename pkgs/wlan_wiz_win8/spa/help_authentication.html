@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Método de autentificación y Modo de encriptación</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Método de autentificación y Modo de encriptación</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+La mayoría de las redes inalámbricas utilizan algún tipo de configuración de seguridad. Estas configuraciones de seguridad definen la autentificación (el modo en que el dispositivo en sí se identifica en la red) y la encriptación (el modo en que los datos se cifran a medida que se envían por la red). Si no especifica correctamente estas opciones cuando esté configurando su impresora/dispositivo multifunción inalámbrico, no podrá conectar con la red inalámbrica. Por lo tanto, debe emplearse cuidado cuando se configuren estas opciones. Consulte la siguiente información para ver los métodos de autentificación y encriptación que admite su impresora/dispositivo multifunción inalámbrico.
+</td></tr>
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Métodos de autentificación</b>
+</td></tr>
+<tr><td width="50"></td><td>
+<ul>
+<li> 
+Sistema abierto<br>
+Se permite el acceso a la red a dispositivos inalámbricos sin ninguna autentificación. <br><br>
+
+<li>
+Clave compartida (sólo para el modo Infraestructura)<br>
+Todos los dispositivos que acceden a la red inalámbrica comparten una clave predeterminada secreta. <br><br>
+<li>
+WPA/WPA2-PSK<br>
+Todos los dispositivos que acceden a la red inalámbrica comparten una contraseña secreta predeterminada. Este método de autenticación le permite comunicarse de forma segura utilizando un potente método de encriptación.<br>WPA/WPA2-PSK sólo se puede utilizar en una red de infraestructura inalámbrica.
+<br><br>
+<li>
+LEAP (no disponible en algunos modelos)<br>
+
+Cisco Systems, Inc. ha desarrollado el protocolo LEAP (Light Extensible Authentication Protocol) de Cisco®, el cual utiliza identificaciones de usuario y contraseñas para la autenticación.
+<br><br>
+<li>
+EAP-FAST/PEAP/EAP-TTLS (no disponible en algunos modelos)<br>
+
+EAP-FAST (Protocolo de autenticación ampliable-Autenticación flexible mediante tunelización segura)/PEAP (Protocolo protegido de autenticación ampliable)/EAP-TTLS (Protocolo de autenticación ampliable-Seguridad de nivel de transporte tunelizado) de Cisco® utilizan un ID de usuario y una contraseña para la autenticación. Puede verificar el certificado del servidor con el certificado CA.
+<br><br>
+<li>
+EAP-TLS(no disponible en algunos modelos)<br>EAP-TLS (Protocolo de autenticación ampliable-Seguridad de nivel de transporte) utiliza un ID de usuario y un certificado de cliente para la autenticación.También puede verificar el certificado del servidor SSL mediante el certificado CA. <br><br>
+</ul>
+
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Métodos internos de autenticación (no disponible en algunos modelos)</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Tiene que especificar uno de los métodos internos de autenticación conforme al que haya seleccionado.
+<ul>
+<li>
+NINGUNO<br>MS-CHAPv2 sirve para el aprovisionamiento, y el método de EAP-FAST correspondiente al método de autenticación de segunda fase. 
+<br><br>
+
+<li>
+MS-CHAPv2<br>
+MS-CHAPv2(Microsoft-Protocolo de autenticación por desafío mutuo versión 2) es un método interno de autenticación para EAP-FAST/PEAP/EAP-TTLS.<br><br>
+<li>
+GTC<br>
+GTC (Tarjeta de testigo genérica) es un método interno de autenticación para EAP-FAST/PEAP.<br><br>
+<li>
+MS-CHAP<br>
+MS-CHAP (Microsoft-Protocolo de autenticación por desafío mutuo) es un método interno de autenticación para EAP-TTLS.<br><br>
+<li>
+CHAP<br>
+CHAP (Protocolo de autenticación por desafío mutuo) es un método interno de autenticación para EAP-TTLS.<br><br>
+<li>
+PAP<br>
+PAP (Protocolo de autenticación de contraseña) es un método interno de autenticación para EAP-TTLS.<br><br>
+</ul>
+
+<tr><td width="50"></td><td>
+<b>Métodos de encriptación</b>
+</td></tr>
+<tr><td width="50"></td><td>
+
+<ul>
+<li>Ninguno<br>
+No se utiliza ningún método de encriptación. <br><br>
+
+<li>WEP (Wired Equivalent Privacy)<br>
+Se transmiten y se reciben los datos con una clave segura elegida por el usuario.<br><br>
+<li>TKIP<br>
+TKIP (Protocolo de comprobación de integridad de claves temporales) elimina la predictibilidad que podrían aprovechar los intrusos para explotar puntos débiles de seguridad causados por el uso de claves WEP asignadas manualmente.Las claves TKIP se generan automáticamente y son más largas que las claves WEP<br><br>
+<li>AES<br>
+AES (Advanced Encryption Standard) es un potente estándar de encriptación autorizado por Wi-Fi®.<br><br>
+<li>CKIP<br>
+El protocolo de integridad de clave original para LEAP de Cisco Systems, Inc.
+</ul>
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

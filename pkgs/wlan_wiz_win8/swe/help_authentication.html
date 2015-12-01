@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Verifieringsmetod och krypteringsläge</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Verifieringsmetod och krypteringsläge</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+I de flesta trådlösa nätverk används någon sorts säkerhetsinställningar. I dessa säkerhetsinställningar definieras hur verifieringen (hur enheten identifierar sig själv i nätverket) och krypteringen (hur data krypteras då de skickas över nätverket) ska gå till. Om du inte specificerar dessa alternativ korrekt då du konfigurerar din trådlösa skrivare/multifunktionsenhet, kommer den inte att kunna ansluta till det trådlösa nätverket. Därför måste dessa alternativ konfigureras noggrant. Se informationen nedan om vilka verifierings- och krypteringsmetoder som din trådlösa skrivare/multifunktionsenhet stödjer. 
+</td></tr>
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Verifieringsmetoder</b>
+</td></tr>
+<tr><td width="50"></td><td>
+<ul>
+<li> 
+Öppna system<br>
+Trådlösa enheter får åtkomst till nätverket utan verifiering.<br><br>
+
+<li>
+Delad nyckel (endast i infrastrukturläge)<br>
+En hemlig nyckel som har bestämts i förväg delas av alla enheter som får åtkomst till det trådlösa nätverket.<br><br>
+<li>
+WPA/WPA2-PSK<br>
+En hemlig lösenordsfras som har bestämts i förväg delas av alla enheter som får åtkomst till det trådlösa nätverket. Med den här autentiseringsmetoden kan du kommunicera säkert med hjälp av en kraftfull krypteringsmetod.<br>WPA/WPA2-PSK kan bara användas i nätverk med trådlös infrastruktur.
+<br><br>
+<li>
+LEAP (Ej tillgängligt för vissa modeller)<br>
+
+Cisco® LEAP (Light Extensible Authentication Protocol) som använder användar-ID och lösenord för verifiering.
+<br><br>
+<li>
+EAP-FAST/PEAP/EAP-TTLS (Ej tillgängligt för vissa modeller)<br>
+
+Cisco® EAP-FAST (Extensible Authentication Protocol-Flexible Authentication via Secure Tunneling)/PEAP (Protected Extensible Authentication Protocol)/EAP-TTLS (Extensible Authentication Protocol-Tunneled Transport Layer Security) använder användar-ID och lösenord för autentisering. Du kan verifiera servercertifikatet med CA-certifikatet.
+<br><br>
+<li>
+EAP-TLS (Ej tillgängligt för vissa modeller)<br>EAP-TLS (Extensible Authentication Protocol-Transport Layer Security) använder ett användar-ID och klientcertifikat för autentisering. Du kan också verifiera SSL-servercertifikatet med CA-certifikatet. <br><br>
+</ul>
+
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Interna verifieringsmetoder (Ej tillgängligt för vissa modeller)</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Du måste ange en av de interna autentiseringsmetoderna enligt den du har valt.
+<ul>
+<li>
+INGEN<br>MS-CHAPv2 används i första fasens autentisering, och metoden för EAP-FAST motsvarar andra fasens autentisering. 
+<br><br>
+
+<li>
+MS-CHAPv2<br>
+MS-CHAPv2 (Microsoft-Challenge Handshake Authentication Protocol version 2) är en intern verifieringsmetod för EAP-FAST/PEAP/EAP-TTLS.<br><br>
+<li>
+GTC<br>
+GTC (Generic Token Card) är en intern autentiseringsmetod för EAP-FAST/PEAP.<br><br>
+<li>
+MS-CHAP<br>
+MS-CHAP(Microsoft-Challenge Handshake Authentication Protocol) är en intern autentiseringsmetod för EAP-TTLS.<br><br>
+<li>
+CHAP<br>
+CHAP(Challenge Handshake Authentication Protocol) är en intern autentiseringsmetod för EAP-TTLS.<br><br>
+<li>
+PAP<br>
+PAP (Password Authentication Protocol) är en intern autentiseringsmetod för EAP-TTLS.<br><br>
+</ul>
+
+<tr><td width="50"></td><td>
+<b>Krypteringsmetoder</b>
+</td></tr>
+<tr><td width="50"></td><td>
+
+<ul>
+<li>Ingen<br>
+Ingen krypteringsmetod används.<br><br>
+
+<li>WEP (Wired Equivalent Privacy)<br>
+Data överförs och tas emot med en säker nyckel som användaren valt.<br><br>
+<li>TKIP<br>
+TKIP (Temporal Key Integrity Protocol) eliminerar den förutsägbarhet som inkräktare skulle kunna använda för att utnyttja säkerhetsrisker som uppkommer till följd av att WEP-nycklar tilldelas manuellt. TKIP-nycklar genereras automatiskt och är längre än WEP-nycklar.<br><br>
+<li>AES<br>
+AES (Advanced Encryption Standard) är en Wi-Fi®-godkänd stark krypteringsstandard.<br><br>
+<li>CKIP<br>
+Det ursprungliga Key Integrity Protocol för LEAP av Cisco Systems, Inc.
+</ul>
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

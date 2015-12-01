@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Configuración de certificado</title>
+
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Configuración de certificado.</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+</td></tr>
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b> Certificado de cliente </b>
+</td></tr>
+<tr><td width="50"></td><td>
+Seleccione el certificado de cliente para autenticación EAP-TLS. Debe tener en cuenta que primero necesita configurar el certificado en la página "Configurar certificado" desde la página web interna (EWS) de su dispositivo. (No tiene que seleccionar el certificado de cliente si usa un método de autenticación, a excepción de EAP-TLS).
+<br>
+
+
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Verificación del certificado del servidor</b>
+</td></tr>
+<tr><td width="50"></td><td>Seleccione el método de verificación del certificado del servidor.(No tiene que seleccionarlo si usa LEAP.)<ul>
+<li>
+No verificar
+<br>
+Se confía en el certificado del servidor sin verificarlo.
+<br><br>
+
+<li>
+Cert. CA
+<br>
+El certificado del servidor emitido por CA es verificado por el certificado CA instalado en este dispositivo.Debe tener en cuenta que primero necesita configurar el certificado en la página "Configurar certificado" desde la página web interna (EWS) de su dispositivo.
+<br><br>
+
+<li>
+Cert. CA + ID servidor
+<br>
+El certificado del servidor (emitido por CA utilizando un certificado CA instalado en este equipo) y el nombre común (ID del servidor) están verificados.Debe tener en cuenta que primero necesita configurar el certificado en la página "Configurar certificado" desde la página web interna (EWS) de su dispositivo.
+<br><br>
+</ul>
+
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>ID del servidor</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Escriba el ID del servidor para la verificación del certificado del servidor. El ID del servidor es el nombre común del certificado del servidor.
+<br><br>
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Configurar certificado</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Si utiliza un certificado de cliente o certificado CA, primero debe configurar el certificado en la página "Configurar certificado" desde la página web interna (EWS) de su dispositivo.
+<br><br>
+</ul>
+
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

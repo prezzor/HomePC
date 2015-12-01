@@ -1,0 +1,268 @@
+WS01000010,Installationsguide för trådlösa enheter
+WS01000040,1.03
+WS02010010,Välkommen
+WS02010020,Välkommen till installationsguiden för trådlösa enheter
+WS03010010,Söker efter trådlös(a) enhet(er)......
+WS03020010,Tillgängliga trådlösa enheter
+WS03020020,Fler än en trådlös enhet hittades.
+WS03020030,Välj den enhet du vill konfigurera och klicka på ”Nästa”.
+WS03020040,Nodnamn
+WS03020050,IP-adress
+WS03020060,MAC-adress
+WS03020070,Skrivarnamn
+WS03020080,Plats
+WS03020090,Viktigt meddelande:
+WS03020100,Om inga enheter visas och du använder en personlig brandvägg, ska du avaktivera brandväggen och klicka på uppdateringsknappen för att söka igenom det trådlösa nätverket på nytt.
+WS03020130,Ej konfigurerad
+WS04000010,Konfiguration av IP-adress
+WS04000020,Konfigurera den trådlösa enhetens IP-adress
+WS04000030,&Få en IP-adress automatiskt.
+WS04000050,&Ställ in statisk IP-adress
+WS04000060,IP-&adress
+WS04000070,Subnät&mask
+WS04000080,&Gateway
+WS05020010,Namn på trådlöst nätverk
+WS05020020,Konfigurera namnet på det trådlösa nätverk som enheten ska kopplas till.
+WS05020030,Na&mn (SSID)
+WS05020040,&Detta är ett Ad-hoc-nätverk, och det finns ingen åtkomstpunkt.
+WS05020060,&Kanal
+WS05030010,Söker efter trådlösa nätverk...
+WS05040010,Tillgängliga trådlösa nätverk
+WS05040020,Välj det SSID som du kontrollerade tidigare.
+WS05040040,Namn (SSID)
+WS05040050,Kanal
+WS05040060,Trådlöst läge
+WS05040070,Signal
+WS05040080,Åtkomstpunkt / basstation
+WS05040090,Ad-hoc-nätverk
+WS05040100,Om SSID (identifiering av din trådlösa åtkomstpunkt) inte visas i listan, eller om det är dolt, kan du fortfarande konfigurera det om du klickar på ”Avancerat”.
+WS05040110,802.11b/g (11 Mbps/54 Mbps)
+WS05040120,802.11b (11 Mbps)
+WS05040130,802.11g (54 Mbps)
+WS05040140,802.11b/g/n 
+WS05040150,802.11n
+WS05060010,VIKTIGT!
+WS05060020,Det här trådlösa nätverket är inte säkert. Det använder ingen säker verifiering och kryptering. 
+WS05060030,Vill du fortsätta med installationen?
+WS05060040,Namn (SSID):
+WS06000010,Verifieringsmetod och Krypteringsmetod
+WS06000020,Konfigurera verifieringsmetod och krypteringsmetod
+WS06000030,Verifierings&metod
+WS06000040,&Krypteringsmetod
+WS06000050,Nätverksnycke&l
+WS06000060,&Bekräfta nätverksnyckel
+WS06000070,Namn (SSID):
+WS06000080,&Intern autentiseringsmetod
+WS07000010,Bekräftelse på inställningar för trådlöst nätverk
+WS07000020,Klicka på ”Nästa” för att skicka följande inställningar till enheten
+WS07000040,Målenhet = 
+WS07000060,Kommunikationsläge
+WS07000070,Infrastruktur
+WS07000080,Ad-hoc
+WS07000090,Namn (SSID)
+WS07000100,När du har klickat på ”Nästa” skrivs sidan ”WLAN Report” ut av enheten. Kontrollera sidan för att bekräfta anslutningsresultatet.
+WS07000150,Auto
+WS07000190,IP-adress
+WS07000200,Subnätmask
+WS07000210,Gateway
+WS07000220,Kanal
+WS07000230,Verifieringsmetod
+WS07000240,Krypteringsmetod
+WS07000270,Ändra &IP-adress
+WS07000280,Intern autentiseringsmetod
+WS08010010,Skickar inställningar ...... Vänta...
+WS09000010,Kom ihåg!
+WS09000020,De trådlösa inställningarna har slutförts. Glöm inte bort att återställa datorns ursprungliga trådlösa inställningar, inklusive brandväggen.
+WS09000030,Se till att följande inställningar återställs:
+WS09000040,Kommunikationsläge (Infrastruktur / Ad-hoc)
+WS09000050,Kanal (1-14) (om det används)
+WS09000060,Nätverksnamn (SSID / ESSID)
+WS09000070,Verifieringsmetod (Öppet system / Delad nyckel / Annan..)
+WS09000080,Krypteringsmetod (Ingen / WEP / Annan..)
+WS09000090,Krypteringsnyckel
+WS09000100,Klicka på ”Nästa” för att fortsätta efter att datorns inställningar har återställts.
+WS09000110,&Kontrollera och bekräfta
+WS09000120,Klicka på ”Slutför” för att fortsätta efter att datorns inställningar har återställts.
+WS21000010,Autentisera användare
+WS21000020,Konfigurera verifieringsmetod och krypteringsmetod
+WS21000030,Namn (SSID):
+WS21000040,Autentisera användare
+WS21000050,&Användar-ID
+WS21000060,Användar&lösenord
+WS21000070,&Bekräfta användarlösenord
+WS25000010,Anslut din åtkomstpunkt till enheten via en nätverkskabel av standardformat och klicka på ”Nästa”.
+WS25000030,Ansluta din enhet och åtkomstpunkt
+WS26000010,Koppla bort nätverkskabeln mellan åtkomstpunkten och enheten och klicka på ”Nästa”.
+WS26000020,Koppla bort din enhet och åtkomstpunkt
+WS26000030,De trådlösa inställningarna har slutförts. Glöm inte bort att återställa brandväggens ursprungliga inställningar.
+WS26000040,Koppla bort nätverkskabeln mellan åtkomstpunkten och enheten och klicka på ”Slutför”.
+WS27000010,Ändra datorns trådlösa inställningar
+WS27000020,För att du ska kunna konfigurera den trådlösa enhetens inställningar manuellt från denna dator, måste du ändra den här datorns trådlösa inställningar tillfälligt.
+WS27000030,Anteckna de aktuella trådlösa inställningarna innan du fortsätter.
+WS27000040,Notera särskilt de följande:
+WS27000050,Kommunikationsläge (Infrastruktur / Ad-hoc)
+WS27000060,Kanal (1-14) (om det används)
+WS27000070,Nätverksnamn (SSID / ESSID)
+WS27000080,Verifieringsmetod (Öppet system / Delad nyckel)
+WS27000090,Krypteringsmetod (Ingen / WEP / annan..)
+WS27000100,Krypteringsnyckel
+WS27000110,Kontakta din nätverksadministratör eller läs i bruksanvisningen till din dator för ytterligare information.
+WS27000120,Klicka på ”Nästa” för att fortsätta.
+WS28000010,Ändra datorns trådlösa inställningar
+WS28000020,Ändra de trådlösa inställningarna på denna dator till följande om du vill kommunicera med en okonfigurerad trådlös enhet:
+WS28000030,Kommunikationsläge:
+WS28000040,Kanal:
+WS28000050,Nätverksnamn (SSID)*:
+WS28000060,Krypteringsmetod:
+WS28000070,* Skiftlägeskänsligt
+WS28000080,Kontakta din nätverksadministratör eller läs i bruksanvisningen till din dator för ytterligare information.
+WS28000090,När du har konfigurerat de trådlösa nätverksinställningarna klickar du på ”Nästa” för att fortsätta.
+WS28000100,Ad-hoc
+WS28000110,11
+WS28000120,SETUP
+WS28000130,Ingen
+WS28000140,(om det används)
+WS28000150,&Kontrollera och bekräfta
+WS29000010,Ändra datorns trådlösa inställningar
+WS29000020,För att kunna kommunicera med en konfigurerad trådlös enhet, måste din dator konfigureras för att använda samma trådlösa inställningar.
+WS29000030,Gör samma trådlösa inställningar manuellt så som visas på datorns nätverkskonfigurationssida.
+WS29000040,Kommunikationsläge:
+WS29000050,Kanal:
+WS29000060,Nätverksnamn (SSID)*:
+WS29000070,Verifieringsmetod:
+WS29000080,Krypteringsmetod:
+WS29000090,Nätverksnyckel :
+WS29000100,* Skiftlägeskänsligt
+WS29000110,Kontakta din nätverksadministratör eller läs i bruksanvisningen till din dator för ytterligare information.
+WS29000120,De trådlösa inställningarna har slutförts. Glöm inte bort att återställa brandväggens ursprungliga inställningar. När du har konfigurerat de trådlösa inställningarna klickar du på ”Nästa” för att fortsätta.
+WS29000130,(om det används)
+WS29000200,&Kontrollera och bekräfta
+WS29000210,Kontakta din nätverksadministratör eller läs i bruksanvisningen till din dator för ytterligare information.
+WS29000220,De trådlösa inställningarna har slutförts. Glöm inte bort att återställa brandväggens ursprungliga inställningar.
+WS40000010,Kontrollera resultatet av den "trådlösa anslutningen".
+WS40000020,Nu har sidan "WLAN Report" skrivits ut av enheten. Leta reda på <Connection> på sidan och kontrollera beskrivningen för att bekräfta anslutningsresultatet.
+WS40000030,Välj resultatet från urvalslistan nedan och klicka på "Nästa".
+WS40000040,"Connection : OK"
+WS40000050,"Connection : Failed"
+WS40000060,* Utskriften kan ta upp till 2 minuter.
+WS41000010,Försök igen med "Trådlös anslutning" 
+WS41000020,"Trådlös anslutning" misslyckades eftersom anslutning till trådlöst nätverk inte kunde göras. Orsaken är troligen felaktiga säkerhetsinställningar.
+WS41000030,Bekräfta det trådlösa nätverkets inställningar och kör "Trådlös anslutning" igen från början.
+WS43000000,Konfigurera nätverksnyckel
+WS43000010,Ange den nätverkssäkerhetsnyckel som du kontrollerade tidigare.
+WS43000020,Det trådlösa nätverkets verifieringsmetod och krypteringstyp avkänns automatiskt. Du behöver bara ange nätverksnyckeln.
+
+WS44000010,Konfigurera certifikat
+WS44000020,Konfigurera klientcertifikat och verifiera servercertifikat.
+WS44000030,Namn (SSID):
+WS44000040,&Klientcertifikat
+WS44000041,
+WS44000050,&Verifiering av servercertifikat
+WS44000051,Ingen verifiering
+WS44000052,CA Cert.
+WS44000053,CA Cert. + Server ID
+WS44000060,&Server-ID
+WS45000010,Det gick inte att ansluta till nätverket
+WS45000020,Kontrollera att SSID/ESSID eller den nätverkssäkerhetsnyckel som du tidigare angivit är korrekt
+WS45000030,Den här informationen var:
+WS45000040,SSID/ESSID:
+WS45000050,Nätverksnyckel:
+WS45000060,Om den här informationen är korrekt, kontrollera också:
+WS45000070,Alla andra säkerhetsfunktioner som kan konfigureras i den trådlösa åtkomstpunkten (routern), t.ex. MAC-adressfiltrering.
+WS45000080,Att enheten är tillräckligt nära den trådlösa åtkomstpunkten
+WS45000090,Om du har frågor om den här informationen ber vi dig kontakta systemadministratören, Internetleverantören eller det företag som tillverkat den trådlösa åtkomstpunkten (routern).
+WS50000010,Bekräfta installationen
+WS50000020,Under installationen kommer datorns trådlösa inställningar att identifieras. Kontakta nätverksadministratören innan en trådlös enhet ansluts till ett företagsnätverk.
+WS50000030,Kontrollerat och bekräftat
+WS51000010,Identifierar trådlösa nätverksinställningar på datorn
+WS51000020,Datorns trådlösa nätverksinställningar har identifierats.
+WS51000030,Det trådlösa nätverkets namn har identifierats (namn på trådlös åtkomstpunkt/router):
+WS51000040,SSID:
+WS51000050,Vill du ansluta till det trådlösa nätverket med dessa inställningar?
+WS51000060,Ja
+WS51000070,Nej
+WS52000010,Kan inte ansluta till nätverket
+WS52000020,Enheten kan inte ansluta till den trådlösa åtkomstpunkten/routern.
+WS52000030,SSID:
+WS52000040,Försök använda manuell inställning
+WS98010010,Konfigurationsfel
+WS98010020,Det uppstod ett kommunikations-/konfigurationsfel när inställningarna skickades till den trådlösa enheten.
+WS98010030,Kontrollera att den trådlösa enheten är påslagen och har initierats, och försök på nytt.
+WS98020010,Viktigt!
+WS98020020,Nätverksinställningarna i denna dator låter dig inte kommunicera med den trådlösa nätverksenheten.
+WS98020030,Kontrollera att din dators Ethernet anslutning eller trådlös anslutning är aktiverade, försäkra dig om att din dators nätverksinställningar stämmer överens med den enhets inställningar som du vill använda. Kontakta din nätverksadministratör eller läs i bruksanvisningen till din dator för ytterligare information.
+WS98030010,Kommunikationsfel
+WS98030020,Om din trådlösa enhet är för långt ifrån din åtkomstpunkt eller din dator, kommer den inte att ta emot en bra trådlös signal. Flytta din trådlösa enhet närmare din åtkomstpunkt.
+WS98030030,Kontrollera att den trådlösa enheten är påslagen och har initierats, och försök på nytt.
+WS98040010,Fel vid sökning efter enheter
+WS98040020,Kontrollera att du har konfigurerat datorn och den trådlösa enheten på rätt sätt, enligt snabbguiden.
+WS98040030,Om din dator använder flera nätverksgränssnitt bör du också kontrollera att rätt trådlöst nätverkskort har aktiverats i datorn, och sedan tillfälligt avaktivera eventuella andra nätverksgränssnitt.
+WS98050010,Ogiltig nätverksnyckel
+WS98050020,(ASCII WEP-nyckel)
+WS98050030,Du angav inte WEP-nyckelinformationen korrekt.
+WS98050040,128 (104) bitar WEP: ”Wirelesscomms”
+WS98050050,Ange 5 eller 13 texttecken. Till exempel:
+WS98050060,64 (40) bitar WEP: ”Hello”
+WS98060010,Ogiltig nätverksnyckel
+WS98060020,(Hex. WEP-nyckel)
+WS98060030,Du angav inte WEP-nyckelinformationen korrekt.
+WS98060040,Ange 10 eller 26 hexadecimala tecken. Till exempel:
+WS98060050,64 (40) bitar WEP: ”71f2234aba”
+WS98060060,128 (104) bitar WEP: ”71f2234ab56cd709e5412aa3ba”
+WS98070010,Avsluta installationen
+WS98070020,Installationen har inte slutförts.
+WS98070030,Om du avslutar installationsprogrammet blir inte den trådlösa enheten konfigurerad.
+WS98070040,Fortsätt med installationsprogrammet genom att klicka på ”Fortsätt”.
+WS98070050,Avsluta installationsprogrammet genom att klicka på ”Avsluta”.
+WS98080010,Nätverksnycklarna är olika
+WS98080020,De nätverksnycklar du angav är olika.
+WS98080030,Skriv in nycklarna på nytt, och kontrollera att ”Nätverksnyckel” och ”Bekräfta nätverksnyckel” är lika.
+WS98090010,Initierar, var god vänta…
+WS98100010,Ogiltig nätverksnyckel
+WS98100020,Lösenordsfrasen är en ASCII sträng med 8-63 tecken.
+WS98130010,Information
+WS98130020,Guiden kan inte använda denna dators trådlösa funktioner för att konfigurera din trådlösa enhet. Guiden kommer att försöka med en annan metod. Klicka på "OK" för att fortsätta.
+WS98140010,Ogiltigt lösenord
+WS98140020,Lösenorden stämde inte.
+WS98140030,Skriv in lösenorden på nytt och försäkra dig om att "Användarlösenord" och "Bekräfta användarlösenord" är de samma.
+WS98150010,Ogiltig nätverksnyckel
+WS98150020,Du har inte angett rätt nätverksnyckel. Skriv 5 eller 8-63 tecken beroende på säkerhetsmetoden.
+WS98150030,Mer information finns i hjälptexten.
+
+WS98160010,USB-anslutningsfel
+WS98160020,Kontrollera att en USB-kabel är ansluten till enheten.
+WS98160030,Kontrollera att enheten är påslagen.
+WS99010010,OK
+WS99010020,Avbryt
+WS99010030,A&vsluta
+WS99010040,< &Tillbaka
+WS99010050,&Nästa >
+WS99010060,&Hjälp
+WS99010070,&Uppdatera
+WS99010080,&Lägg till
+WS99010090,&Fortsätt
+WS99010100,&Avancerat
+WS99010110,&Slutför
+WS99010130,Var finns mitt SSID?
+WS99010140,Var finns min nätverksnyckel?
+WS99010150,Försök igen >
+WS99020100,Öppet system
+WS99020110,Delad nyckel
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Ingen
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020500,EAP-TLS
+WS99030100,INGEN
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
+W999999999,

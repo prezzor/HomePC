@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Pålitelighetskontrollmetode og krypteringsmodus</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Pålitelighetskontrollmetode og krypteringsmodus</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+De fleste trådløse nettverk bruker en eller annen form for sikkerhetsinnstillinger. Disse sikkerhetsinnstillingene definerer pålitelighetskontrollen (hvordan enheten identifiserer seg overfor nettverket) og kryptering (hvordan data krypteres når de sendes på nettverket). Hvis du ikke spesifiserer disse alternativene korrekt når du konfigurerer den trådløse skriveren/multifunksjonsenheten, vil den ikke kunne koble seg opp mot det trådløse nettverket. Derfor må du utvise nøyaktighet ved konfigurering av disse alternativene. Se informasjonen nedenfor for å se hvilke pålitelighetskontroll- og krypteringsmetoder din trådløse skriver/multifunksjonsenhet støtter.
+</td></tr>
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Pålitelighetskontrollmetoder</b>
+</td></tr>
+<tr><td width="50"></td><td>
+<ul>
+<li> 
+Åpent system<br>
+Trådløse enheter får tilgang til nettverket uten pålitelighetskontroll.<br><br>
+
+<li>
+Delt nøkkel (kun infrastrukturmodus)<br>
+En hemmelig, forhåndsinnstilt nøkkel deles av alle enheter som ønsker tilgang til det trådløse nettverket.<br><br>
+<li>
+WPA/WPA2-PSK<br>
+Et hemmelig, forhåndsinnstilt passorduttrykk deles av alle enheter som skal ha tilgang til det trådløse nettverket. Denne metoden for pålitelighetskontroll gjør at du kan kommunisere sikkert ved hjelp av en kraftig krypteringsmetode.<br>WPA/WPA2-PSK kan kun brukes i et trådløst infrastrukturnettverk.
+<br><br>
+<li>
+LEAP (ikke tilgjengelig for visse modeller)<br>
+
+Cisco® LEAP (Light Extensible Authentication Protocol) bruker bruker-ID og passord for pålitelighetskontroll.
+<br><br>
+<li>
+EAP-FAST/PEAP/EAP-TTLS  (ikke tilgjengelig for visse modeller)<br>
+
+Cisco® EAP-FAST (Extensible Authentication Protocol-Flexible Authentication via Secure Tunneling)/ PEAP (Protected Extensible Authentication Protocol) /EAP-TTLS (Extensible Authentication Protocol-Tunneled Transport Layer Security) bruker bruker-ID og passord for pålitelighetskontroll. Du kan bekrefte serversertifikatet ved hjelp av CA-sertifikatet.
+<br><br>
+<li>
+EAP-TLS  (ikke tilgjengelig for visse modeller)<br>EAP-TLS (Extensible Authentication Protocol-Transport Layer Security) bruker en bruker-ID og et klientsertifikat for pålitelighetskontroll. Du kan også bekrefte SSL-serversertifikatet ved hjelp av CA-sertifikatet.  <br><br>
+</ul>
+
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Indre metoder for pålitelighetskontroll(ikke tilgjengelig for visse modeller)</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Du må spesifisere én av de indre metodene for pålitelighetskontroll i henhold til den du har valgt.
+<ul>
+<li>
+INGEN<br>MS-CHAPv2 brukes til initiering, og metoden for EAP-FAST i henhold til metoden for pålitelighetskontroll i annen fase.
+<br><br>
+
+<li>
+MS-CHAPv2<br>
+MS-CHAPv2 (Microsoft-Challenge Handshake Authentication Protocol version 2) er en intern metode for pålitelighetskontroll for EAP-FAST/PEAP/EAP-TTLS.<br><br>
+<li>
+GTC<br>
+GTC (Generic Token Card) er en intern metode for pålitelighetskontroll for EAP-FAST/PEAP.<br><br>
+<li>
+MS-CHAP<br>
+MS-CHAP (Microsoft-Challenge Handshake Authentication Protocol) er en intern metode for pålitelighetskontroll for EAP-TTLS.<br><br>
+<li>
+CHAP<br>
+CHAP (Challenge Handshake Authentication Protocol) er en intern metode for pålitelighetskontroll for EAP-TTLS.<br><br>
+<li>
+PAP<br>
+PAP (Password Authentication Protocol) er en intern metode for pålitelighetskontroll for EAP-TTLS.<br><br>
+</ul>
+
+<tr><td width="50"></td><td>
+<b>Krypteringsmetoder</b>
+</td></tr>
+<tr><td width="50"></td><td>
+
+<ul>
+<li>None<br>
+Ingen krypteringsmetode brukes.<br><br>
+
+<li>WEP (Wired Equivalent Privacy)<br>
+Data overføres og mottas med en sikkerhetsnøkkel etter brukerens valg.<br><br>
+<li>TKIP <br>
+TKIP (Temporal Key Integrity Protocol) fjerner forutsigbarheten som inntrengere kan være avhengige av for å utnytte svakheter i sikkerheten, ved hjelp av manuelt tildelte WEP-nøkler.  TKIP-nøkler genereres automatisk og er lengre enn WEP-nøkler<br><br>
+<li>AES<br>
+AES (Advanced Encryption Standard) er en Wi-Fi(R)-godkjent sterk krypteringsstandard.<br><br>
+<li>CKIP<br>
+Opprinnelige Key Integrity Protocol for LEAP fra Cisco Systems, Inc.
+
+</ul>
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

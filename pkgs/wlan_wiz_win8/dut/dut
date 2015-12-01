@@ -1,0 +1,268 @@
+WS01000010,Setup Wizard voor draadloze apparaten
+WS01000040,1.03
+WS02010010,Welkom
+WS02010020,Welkom bij de Wireless Setup Wizard
+WS03010010,Zoeken naar draadloze apparaten......
+WS03020010,Beschikbare draadloze apparaten
+WS03020020,Er werd meer dan een draadloos apparaat gevonden.
+WS03020030,Selecteer het apparaat dat u wilt configureren en klik op "Volgende".
+WS03020040,Naam van knooppunt
+WS03020050,IP-adres
+WS03020060,MAC-adres
+WS03020070,Naam printer
+WS03020080,Locatie
+WS03020090,Belangrijke opmerking:
+WS03020100,Als er geen apparaten worden gevonden en u een persoonlijke firewall gebruikt, schakel de firewall dan uit en klik op de knop Vernieuwen om het draadloze netwerk opnieuw af te zoeken.
+WS03020130,Niet geconfigureerd
+WS04000010,IP-adres configureren
+WS04000020,Configureer het IP-adres van het draadloze apparaat.
+WS04000030,&Automatisch een IP-adres ontvangen
+WS04000050,&Statisch IP-adres instellen
+WS04000060,&IP-adres
+WS04000070,Subnet&masker
+WS04000080,&Gateway
+WS05020010,Naam draadloos netwerk
+WS05020020,Configureer de naam van het draadloze netwerk waarmee het apparaat verbinding moet maken.
+WS05020030,&Naam (SSID)
+WS05020040,&Dit is een Ad-hoc netwerk en er is geen toegangspoort.
+WS05020060,&Kanaal
+WS05030010,Zoeken naar draadloze netwerken …
+WS05040010,Beschikbare draadloze netwerken
+WS05040020,Kies de SSID die u al hebt gecontroleerd.
+WS05040040,Naam (SSID)
+WS05040050,Kanaal
+WS05040060,Draadloze modus
+WS05040070,Signaal
+WS05040080,Toegangspoort / Basisstation
+WS05040090,Ad-hoc netwerk
+WS05040100,Als de SSID (identificatie van uw draadloze toegangspunt) niet voorkomt in deze lijst of als u de SSID verbergt, kunt u deze misschien toch configureren door op de knop Geavanceerd te drukken.
+WS05040110,802.11b/g (11 Mbps/54 Mbps)
+WS05040120,802.11b (11 Mbps)
+WS05040130,802.11g (54 Mbps)
+WS05040140,802.11b/g/n 
+WS05040150,802.11n
+WS05060010,LET OP!
+WS05060020,Dit draadloze netwerk is niet veilig. Er is geen beveiligde verificatie of versleuteling.
+WS05060030,Wilt u toch doorgaan met de installatie?
+WS05060040,Naam (SSID):
+WS06000010,Verificatie en versleutelingsmodus
+WS06000020,Configureer de verificatiemethode en versleutelingsmodus.
+WS06000030,V&erificatiemethode
+WS06000040,Ve&rsleutelingsmodus
+WS06000050,&Netwerksleutel
+WS06000060,Netwerksleutel &bevestigen
+WS06000070,Naam (SSID):
+WS06000080,&Interne verificatiemethode
+WS07000010,Draadloze netwerkinstellingen bevestigen
+WS07000020,Klik op "Volgende" om de volgende instellingen bij het apparaat in te dienen.
+WS07000040,Doelapparaat = 
+WS07000060,Communicatiemodus
+WS07000070,Infrastructuur
+WS07000080,Ad-hoc
+WS07000090,Naam (SSID)
+WS07000100,Nadat u op "Volgende" hebt geklikt, wordt de pagina "WLAN Report" afgedrukt door het apparaat. Bekijk deze pagina om het resultaat van de verbinding te controleren.
+WS07000150,Automatisch
+WS07000190,IP-adres
+WS07000200,Subnetmasker
+WS07000210,Gateway
+WS07000220,Kanaal
+WS07000230,Verificatiemethode
+WS07000240,Versleutelingsmodus
+WS07000270,&IP-adres wijzigen
+WS07000280,Interne verificatiemethode
+WS08010010,Instellingen worden ingediend ...... Even wachten a.u.b.
+WS09000010,Opgelet!
+WS09000020,De draadloze installatie is nu voltooid. Vergeet niet om de oorspronkelijke draadloze instellingen van uw computer te herstellen en de firewall weer in te schakelen.
+WS09000030,Zorg dat u de volgende instellingen herstelt:
+WS09000040,Communicatiemodus (Infrastructuur / Ad-hoc)
+WS09000050,Kanaal (1-14) (indien van toepassing)
+WS09000060,Netwerknaam (SSID / ESSID)
+WS09000070,Verificatiemethode (Open systeem / Gedeelde sleutel)
+WS09000080,Versleutelingsmodus (Geen / WEP / Andere...)
+WS09000090,Versleutelingscode
+WS09000100,Klik nadat u de computerinstellingen hebt hersteld op "Volgende" om door te gaan.
+WS09000110,&gecontroleerd en bevestigd
+WS09000120,Klik nadat u de computerinstellingen hebt hersteld op "Voltooien" om door te gaan.
+WS21000010,Gebruikersverificatie
+WS21000020,Configureer de Verificatiemethode en versleutelingsmodus.
+WS21000030,Naam (SSID):
+WS21000040,Gebruikersverificatie
+WS21000050,&Gebruikersnaam
+WS21000060,Gebruiker &wachtwoord
+WS21000070,Gebruikerswachtwoord &bevestigen
+WS25000010,Sluit de toegangspoort met een standaard-netwerkkabel op het apparaat aan en klik op "Volgende".
+WS25000030,Uw apparaat en toegangspoort aansluiten
+WS26000010,Koppel de netwerkkabel tussen de toegangspoort en het apparaat los en klik op "Volgende".
+WS26000020,Uw apparaat en toegangspoort afsluiten
+WS26000030,De draadloze installatie is nu voltooid. Vergeet niet om de oorspronkelijke firewall-instellingen te herstellen.
+WS26000040,Koppel de netwerkkabel tussen de toegangspoort en het apparaat los en klik op "Voltooien".
+WS27000010,De draadloze instellingen van de computer veranderen
+WS27000020,Om het draadloze apparaat handmatig te configureren, dient u de huidige draadloze instellingen van deze computer tijdelijk te veranderen.
+WS27000030,Noteer de huidige draadloze instellingen voordat u verdergaat.
+WS27000040,Noteer vooral het volgende:
+WS27000050,Communicatiemodus: (Infrastructuur / Ad-hoc)
+WS27000060,Kanaal (1-14) (indien van toepassing)
+WS27000070,Netwerknaam (SSID / ESSID)
+WS27000080,Verificatiemethode: (Open systeem / Gedeelde sleutel)
+WS27000090,Versleutelingsmodus (Geen / WEP / Andere...)
+WS27000100,Versleutelingscode
+WS27000110,Neem contact op met uw systeembeheerder of raadpleeg de gebruikershandleiding van uw computer voor meer informatie.
+WS27000120,Klik op "Volgende" om door te gaan.
+WS28000010,De draadloze instellingen van de computer veranderen
+WS28000020,Om met het niet-geconfigureerde draadloze apparaat te communiceren, dient u de draadloze instellingen op uw computer als volgt te wijzigen:
+WS28000030,Communicatiemodus:
+WS28000040,Kanaal:
+WS28000050,Netwerknaam (SSID)*:
+WS28000060,Versleutelingsmodus:
+WS28000070,* Hoofdlettergevoelig
+WS28000080,Neem contact op met uw systeembeheerder of raadpleeg de gebruikershandleiding van uw computer voor meer informatie.
+WS28000090,Klik na het configureren van de draadloze instellingen op "Volgende" om door te gaan.
+WS28000100,Ad-hoc
+WS28000110,11
+WS28000120,SETUP
+WS28000130,Geen
+WS28000140,(indien van toepassing)
+WS28000150,&gecontroleerd en bevestigd
+WS29000010,De draadloze instellingen van de computer veranderen
+WS29000020,Om met het geconfigureerde draadloze apparaat te communiceren, moet u op de computer dezelfde draadloze instellingen configureren.
+WS29000030,Geef handmatig op uw computer dezelfde instellingen op die u ziet op de pagina Network Configuration.
+WS29000040,Communicatiemodus:
+WS29000050,Kanaal:
+WS29000060,Netwerknaam (SSID)*:
+WS29000070,Verificatiemethode:
+WS29000080,Versleutelingsmodus:
+WS29000090,Netwerksleutel:
+WS29000100,* Hoofdlettergevoelig
+WS29000110,Neem contact op met uw systeembeheerder of raadpleeg de gebruikershandleiding van uw computer voor meer informatie.
+WS29000120,De draadloze installatie is nu voltooid. Vergeet niet om de oorspronkelijke firewall-instellingen te herstellen. Klik na het configureren van de draadloze instellingen op "Volgende" om door te gaan.
+WS29000130,(indien van toepassing)
+WS29000200,&gecontroleerd en bevestigd
+WS29000210,Neem contact op met uw systeembeheerder of raadpleeg de gebruikershandleiding van uw computer voor meer informatie.
+WS29000220,De draadloze installatie is nu voltooid. Vergeet niet om de oorspronkelijke firewall-instellingen te herstellen.
+WS40000010,Controleer het resultaat van de  verbinding van “Wireless Setup”
+WS40000020,De pagina “WLAN Report” is nu afgedrukt door het apparaat. Zoek <Connection> op de pagina en bekijk de beschrijving om het resultaat van de verbinding te controleren.
+WS40000030,Selecteer het resultaat in de onderstaande keuzelijst en klik op “Volgende”.
+WS40000040,"Connection : OK"
+WS40000050,"Connection : Failed"
+WS40000060,* Deze afdruk kan twee minuten duren.
+WS41000010,Probeer “Wireless Setup” opnieuw
+WS41000020,“Wireless Setup” is mislukt omdat geen koppeling met een draadloos netwerk kon worden gemaakt. Dit is waarschijnlijk het gevolg van onjuiste beveiligingsinstellingen.
+WS41000030,Controleer de beveiligingsinstellingen van het draadloos netwerk en probeer “Wireless Setup” opnieuw vanaf het begin.
+WS43000000,Netwerksleutel configureren
+WS43000010,Voer de eerder gecontroleerde netwerkbeveiligingssleutel in.
+WS43000020,De verificatie en versleuteling die in uw netwerk worden gebruikt, worden automatisch gedetecteerd. U hoeft alleen maar de netwerksleutel in te voeren.
+
+WS44000010,Certificaatconfiguratie
+WS44000020,Verificatie van clientcertificaat en servercertificaat configureren.
+WS44000030,Naam (SSID):
+WS44000040,&Clientcertificaat
+WS44000041,
+WS44000050,&Verificatie van servercertificaat
+WS44000051,Geen verificatie
+WS44000052,CA-cert.
+WS44000053,CA-cert. + server-id
+WS44000060,&Server-id
+WS45000010,Kan geen verbinding maken met het netwerk
+WS45000020,Controleer of de eerder ingevoerde SSID/ESSID of netwerkbeveiligingssleutel correct is.
+WS45000030,De gegevens waren:
+WS45000040,SSID/ESSID:
+WS45000050,Netwerksleutel:
+WS45000060,Als deze gegevens kloppen, controleer dan ook het volgende:
+WS45000070,Op de toegangspoort kunnen ook andere vormen van beveiliging geconfigureerd zijn, zoals een filter op basis van het MAC-adres.
+WS45000080,Dit apparaat bevindt zich dicht genoeg bij de draadloze toegangspoort.
+WS45000090,Als u twijfelt over deze gegevens, informeer dan bij uw systeembeheerder, uw internetaanbieder of de fabrikant van de toeganspoort.
+WS50000010,Installatie bevestigen
+WS50000020,Tijdens de installatie worden automatisch de draadloze instellingen op de computer gedetecteerd. Informeer eerst bij de netwerkbeheerder voordat u het draadloze apparaat verbindt met een bedrijfsnetwerk.
+WS50000030,Gecontroleerd en bevestigd
+WS51000010,Bestaande instellingen van draadloos netwerk op computer detecteren
+WS51000020,De instellingen van het draadloze netwerk op uw computer zijn gedetecteerd.
+WS51000030,De naam van het draadloze netwerk is gedetecteerd (naam draadloze toegangspoort/router):
+WS51000040,SSID:
+WS51000050,Wilt u op basis van deze instellingen verbinding maken met het draadloze netwerk?
+WS51000060,Ja
+WS51000070,Nee
+WS52000010,Verbinding met netwerk mislukt
+WS52000020,Het apparaat kan niet worden verbonden met uw draadloze toegangspoort/router. 
+WS52000030,SSID:
+WS52000040,Probeer de handmatige configuratie.
+WS98010010,Fout in configuratie
+WS98010020,Er is een communicatie-/configuratiefout opgetreden tijdens het bij het draadloze apparaat indienen van de instellingen.
+WS98010030,Controleer dat het draadloze apparaat aanstaat en geïnitialiseerd is en probeer het opnieuw.
+WS98020010,Let op
+WS98020020,Met de netwerkinstellingen van deze computer is het niet mogelijk om met het draadloze netwerkapparaat te communiceren.
+WS98020030,Wees er zeker van dat de Ethernet connectie of de draadloze instellingen van uw computer aan staan en wees er zeker van dat de instellingen van de computer gelijk zijn met het apparaat dat u wil gebruiken. Neem contact op met uw systeem beheerder of kijk in uw computers gebruikers handleiding voor meer informatie.
+WS98030010,Communicatiefout
+WS98030020,Indien uw draadloze apparaat te ver van het access point van uw computer staat, zal het geen goed draadloos signaal opvangen. Plaats het apparaat dichter bij het access point.
+WS98030030,Controleer dat het draadloze apparaat aanstaat en geïnitialiseerd is en probeer het opnieuw.
+WS98040010,Fout tijdens zoeken naar apparaten
+WS98040020,Controleer dat u de computer en het draadloze apparaat juist geconfigureerd hebt, in overeenstemming met de instructies in de installatiehandleiding.
+WS98040030,Als uw computer diverse netwerkinterfaces gebruikt, moet u controleren dat de juiste draadloze netwerkinterfacekaart op uw computer geactiveerd is en de andere netwerkinterfaces tijdelijk uitschakelen.
+WS98050010,Ongeldige netwerksleutel
+WS98050020,(ASCII WEP-sleutel)
+WS98050030,U hebt een fout gemaakt bij het invoeren van de gegevens van de WEP-sleutel.
+WS98050040,128 (104) bits WEP : "Wirelesscomms"
+WS98050050,Voer 5 of 13 letters in. Bijvoorbeeld:
+WS98050060,64 (40) bits WEP   : "Hallo"
+WS98060010,Ongeldige netwerksleutel
+WS98060020,(Hex. WEP-sleutel)
+WS98060030,U hebt een fout gemaakt bij het invoeren van de gegevens van de WEP-sleutel.
+WS98060040,Voer 10 of 26 hexadecimale gegevens in. Bijvoorbeeld:
+WS98060050,64 (40) bits WEP   : "71f2234aba"
+WS98060060,128 (104) bits WEP : "71f2234ab56cd709e5412aa3ba"
+WS98070010,Installatie afsluiten
+WS98070020,De installatie is niet voltooid.
+WS98070030,Als u dit installatieprogramma afsluit, wordt het draadloze apparaat niet geconfigureerd.
+WS98070040,Klik op "Hervatten" om dit installatieprogramma voort te zetten.
+WS98070050,Klik op "Afsluiten" om dit installatieprogramma af te sluiten.
+WS98080010,Netwerksleutels komen niet overeen.
+WS98080020,De netwerksleutels die u hebt ingevoerd, komen niet met elkaar overeen.
+WS98080030,Typ de sleutels opnieuw, en zorg dit keer dat u bij "Netwerksleutel" en "Netwerksleutel bevestigen" hetzelfde invoert.
+WS98090010,Initialiseren, wachten s.v.p.
+WS98100010,Ongeldige netwerksleutel
+WS98100020,De wachtzin is een ASCII-tekenreeks van 8-63 tekens.
+WS98130010,Informatie
+WS98130020,Deze wizard kan uw draadloze mogelijkheid niet gebruiken om uw draadloze apparaat te configureren. De wizard zal het nu op een andere manier proberen. Druk op "OK"om door te gaan.
+WS98140010,Ongeldig wachtwoord
+WS98140020,Wachtwoorden komen niet overeen.
+WS98140030,Voer de wachtwoorden opnieuw in en let er op dat  "gebruikerswachtwoord" en "Gebruikerswachtwoord bevestigen" hetzelfde zijn.
+WS98150010,Ongeldige netwerksleutel
+WS98150020,De ingevoerde netwerksleutel is niet correct.Voer 5 of 8 tot 63 tekens in, afhankelijk van de beveiligingsmethode.
+WS98150030,Raadpleeg de Help voor meer informatie.
+
+WS98160010,USB-verbindingsfout
+WS98160020,Controleer of er een USB-kabel is aangesloten op het apparaat.
+WS98160030,Controleer of het apparaat aanstaat.
+WS99010010,OK
+WS99010020,Annuleren
+WS99010030,&Afsluiten
+WS99010040,< &Terug
+WS99010050,&Volgende >
+WS99010060,&Help
+WS99010070,V&ernieuwen
+WS99010080,T&oevoegen
+WS99010090,He&rvatten
+WS99010100,Ge&avanceerd
+WS99010110,&Voltooien
+WS99010130,Waar is mijn SSID?
+WS99010140,Waar is mijn netwerksleutel?
+WS99010150,Opnieuw >
+WS99020100,Open systeem
+WS99020110,Gedeelde sleutel
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Geen
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020500,EAP-TLS
+WS99030100,GEEN
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
+W999999999,

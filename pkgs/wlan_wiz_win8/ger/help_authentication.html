@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Authentifizierungs- und Verschlüsselungsmethoden</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Authentifizierungs- und Verschlüsselungsmethoden</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+Bei den meisten Wireless-Netzwerken gibt es gewisse Sicherheitseinstellungen. Diese Sicherheitsmaßnahmen definieren die Art der Authentifizierung (wie sich das Gerät im Netzwerk anmeldet) und die Verschlüsselung (wie die Daten beim Versand im Netzwerk verschlüsselt werden). Wenn Sie diese Optionen bei der Konfiguration des Wireless-Gerätes (Drucker/Multifunktionsgerät) nicht korrekt angeben, kann es die Verbindung zum Wireless-Netzwerk nicht herstellen. Sie müssen also bei der Konfiguration dieser Optionen mit besonderer Sorgfalt vorgehen. Den nachstehenden Angaben können Sie entnehmen, welche Authentifizierungs- und Verschlüsselungsmethoden Ihr Wireless-Gerät unterstützt.
+</td></tr>
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Authentifizierungsmethoden</b>
+</td></tr>
+<tr><td width="50"></td><td>
+<ul>
+<li> 
+Open System<br>
+Wireless-Geräte können ohne Authentifizierung auf das Netzwerk zugreifen. <br><br>
+
+<li>
+Shared Key (nur im Infrastruktur-Modus)<br>
+Ein geheimer, zuvor definierter Schlüssel wird von allen Geräten für den Zugang zum Wireless-Netzwerk benutzt. <br><br>
+<li>
+WPA/WPA2-PSK<br>
+Eine geheime, zuvor definierte Passphrase (eine Art Kennwortsatz) wird von allen Geräten für den Zugang zum drahtlosen Netzwerk genutzt. Diese Authentifizierungsmethode bietet Ihnen mit einer wirksamen Verschlüsselungsmethode eine sichere Kommunikation.<br>WPA/WPA2-PSK kann ausschließlich für drahtlose Infrastrukturnetzwerke genutzt werden.
+<br><br>
+<li>
+LEAP (Nicht für alle Modelle verfügbar)<br>
+
+Das Cisco® LEAP-Protokoll (Light Extensible Authentication Protocol) wurde von Cisco Systems Inc. entwickelt und nutzt zum Authentifizieren eine Benutzer-ID sowie ein Kennwort.
+<br><br>
+<li>
+EAP-FAST/PEAP/EAP-TTLS (Nicht für alle Modelle verfügbar)<br>
+
+Cisco® EAP-FAST (Extensible Authentication Protocol-Flexible Authentication via Secure Tunneling) / PEAP (Protected Extensible Authentication Protocol) / EAP-TTLS (Extensible Authentication Protocol-Tunneled Transport Layer Security) verwendet Benutzer-ID und Kennwort zur Authentifizierung. Sie können das Server-Zertifikat unter Verwendung des CA-Zertifikats verifizieren.
+<br><br>
+<li>
+EAP-TLS (Nicht für alle Modelle verfügbar)<br>EAP-TLS (Extensible Authentication Protocol-Transport Layer Security) verwendet eine Benutzer-ID und ein Client-Zertifikat zur Authentifizierung. Sie können das SSL-Server-Zertifikat auch durch die Verwendung eines CA-Zertifikats verifizieren. <br><br>
+</ul>
+
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Innere Authentifizierungsmethoden (Nicht für alle Modelle verfügbar)</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Sie müssen eine der Methode zur inneren Authentifizierung entsprechend der gewählten Authentifizierungsmethode festlegen.
+<ul>
+<li>
+KEINE<br>EAP-FAST-Authentifizierung für CCXv3-Netzwerke. Verwendet keine innere Authentifizierungsmethode.
+<br><br>
+
+<li>
+MS-CHAPv2<br>
+MS-CHAPv2 (Microsoft-Challenge Handshake Authentication Protocol version 2) ist eine interne Authentifizierungsmethode für EAP-FAST/PEAP/EAP-TTLS.<br><br>
+<li>
+GTC<br>
+GTC (Generic Token Card) ist eine interne Authentifizierungsmethode für EAP-FAST/PEAP.<br><br>
+<li>
+MS-CHAP<br>
+MS-CHAP (Microsoft-Challenge Handshake Authentication Protocol) ist eine interne Authentifizierungsmethode für EAP-TTLS.<br><br>
+<li>
+CHAP<br>
+CHAP (Challenge Handshake Authentication Protocol) ist eine interne Authentifizierungsmethode für EAP-TTLS.<br><br>
+<li>
+PAP<br>
+PAP (Password Authentication Protocol) ist eine interne Authentifizierungsmethode für EAP-TTLS.<br><br>
+</ul>
+
+<tr><td width="50"></td><td>
+<b>Verschlüsselungsmethoden</b>
+</td></tr>
+<tr><td width="50"></td><td>
+
+<ul>
+<li>Keine<br>
+Die Daten werden nicht verschlüsselt.<br><br>
+
+<li>WEP (Wired Equivalent Privacy)<br>
+Daten werden mit dem gewünschten Sicherheitsschlüssel übertragen und empfangen.<br><br>
+<li>TKIP<br>
+TKIP (Temporal Key Integrity Protocol) beseitigt die Berechenbarkeit, die bei der Verwendung von manuell zugeordneten WEP-Schlüsseln entsteht und die Eindringlinge als Schwachstelle der Sicherheit auszunutzen könnten.TKIP-Schlüssel werden automatisch erzeugt und sind länger als WEP-Schlüssel und daher auch sicherer als normale WEP-Schlüssel.<br><br>
+<li>AES<br>
+AES (Advanced Encryption Standard) ist ein bestehender Wi-Fi®-Verschlüsselungsstandard.<br><br>
+
+<li>CKIP<br>
+Ist das originale CKIP-Protokoll (Cisco® Key Integrity Protocol) für LEAP von Cisco Systems Inc.
+
+</ul>
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

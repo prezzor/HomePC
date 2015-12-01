@@ -1,0 +1,268 @@
+WS01000010,Assistente de configuração de dispositivos de rede sem fios
+WS01000040,1.03
+WS02010010,Bem-vindo
+WS02010020,Bem-vindo ao Assistente de configuração de dispositivos sem fios
+WS03010010,A procurar dispositivo(s) sem fios...
+WS03020010,Dispositivos sem fios disponíveis
+WS03020020,Foram encontrados vários dispositivos sem fios.
+WS03020030,Seleccione o dispositivo que pretende configurar e clique em "Seguinte".
+WS03020040,Nome do nó
+WS03020050,Endereço IP
+WS03020060,Endereço MAC
+WS03020070,Nome da impressora
+WS03020080,Localização
+WS03020090,Aviso importante:
+WS03020100,Se não aparecer nenhum dispositivo e tiver uma firewall pessoal activa, desactive a firewall e clique no botão Actualizar para pesquisar novamente na rede sem fios.
+WS03020130,Não configurado
+WS04000010,Configuração do endereço IP
+WS04000020,Configure o endereço IP do dispositivo sem fios
+WS04000030,&Obter um endereço IP automaticamente
+WS04000050,&Definir endereço IP estático
+WS04000060,&Endereço IP
+WS04000070,Subnet &mask
+WS04000080,&Gateway
+WS05020010,Nome da rede sem fios
+WS05020020,Configure o nome da rede sem fios à qual estará associado o dispositivo.
+WS05020030,&Nome (SSID)
+WS05020040,&Rede Ad-hoc sem ponto de acesso
+WS05020060,&Canal
+WS05030010,A procurar redes sem fios...
+WS05040010,Redes sem fios disponíveis
+WS05040020,Escolha o SSID que verificou anteriormente.
+WS05040040,Nome (SSID)
+WS05040050,Canal
+WS05040060,Modo de comunicação sem fios
+WS05040070,Sinal
+WS05040080,Ponto de acesso / Estação base
+WS05040090,Rede Ad-hoc
+WS05040100,Se o SSID (Identificação do seu Ponto de Acesso Sem Fios) não aparecer na lista, ou se estiver ocultado, poderá, ainda assim, configurá-lo clicando no botão 'Avançado'.
+WS05040110,802.11b/g (11Mbps/54Mbps)
+WS05040120,802.11b (11Mbps)
+WS05040130,802.11g (54Mbps)
+WS05040140,802.11b/g/n 
+WS05040150,802.11n
+WS05060010,ATENÇÃO!
+WS05060020,Esta rede sem fios não é segura. Não está a utilizar um sistema seguro de autenticação e de encriptação.
+WS05060030,Pretende continuar a configuração?
+WS05060040,Nome (SSID):
+WS06000010,Método de autenticação e modo de encriptação
+WS06000020,Configure o método de autenticação e o modo de encriptação
+WS06000030,&Método de autenticação
+WS06000040,Modo de &encriptação
+WS06000050,Chave de &rede
+WS06000060,&Confirmar chave de rede
+WS06000070,Nome (SSID):
+WS06000080,&Método de autenticação interno
+WS07000010,Confirmação das definições da rede sem fios
+WS07000020,Clique em "Seguinte" para activar as seguintes definições no dispositivo:
+WS07000040,Dispositivo de destino =
+WS07000060,Modo de comunicações
+WS07000070,Infra-estrutura
+WS07000080,Ad-hoc
+WS07000090,Nome (SSID)
+WS07000100,Após clicar em "Seguinte", será impressa a página "WLAN Report" pelo aparelho. Verifique se está em conformidade com o resultado da ligação.
+WS07000150,Automático
+WS07000190,Endereço IP
+WS07000200,Subnet mask
+WS07000210,Gateway
+WS07000220,Canal
+WS07000230,Método de autenticação
+WS07000240,Modo de encriptação
+WS07000270,&Alterar endereço IP
+WS07000280,Método de autenticação interno
+WS08010010,A activar definições ...... Aguarde...
+WS09000010,Não se esqueça!
+WS09000020,A "Configuração de rede sem fios" está agora concluída. Não se esqueça de repor as definições originais de rede sem fios do seu computador, incluindo a firewall.
+WS09000030,Certifique-se de que repõe as seguintes definições:
+WS09000040,Modo de Comunicação (Infra-estrutura / Ad-hoc)
+WS09000050,Canal (1-14) (se aplicável)
+WS09000060,Nome da Rede (SSID / ESSID)
+WS09000070,Método de Autenticação (Sistema aberto / Chave..)
+WS09000080,Modo de Encriptação (Nenhum / WEP / Outro ..)
+WS09000090,Chave de Encriptação
+WS09000100,Depois de repor as definições do seu computador, clique em "Seguinte" para continuar.
+WS09000110,&Verificado e confirmado
+WS09000120,Depois de repor as definições do seu computador, clique em "Concluir" para continuar.
+WS21000010,Autenticação do utilizador
+WS21000020,Configure o método de autenticação e o modo de encriptação
+WS21000030,Nome (SSID):
+WS21000040,Autenticação do utilizador
+WS21000050,ID do &utilizador
+WS21000060,&Palavra-passe do utilizador
+WS21000070,&Confirmar palavra-passe do utilizador
+WS25000010,Ligue o seu ponto de acesso ao dispositivo, utilizando um cabo de rede padrão e clique em "Seguinte".
+WS25000030,Ligue o seu dispositivo e Ponto de Acesso
+WS26000010,Desligue o cabo de rede que liga o ponto de acesso ao dispositivo e clique em "Seguinte".
+WS26000020,Desligue o seu dispositivo e Ponto de Acesso
+WS26000030,A "instalação da rede sem fios" está agora completa. Por favor reinicie a firewall para os valores iniciais.
+WS26000040,Desligue o cabo de rede que liga o ponto de acesso ao dispositivo e clique em "Concluir".
+WS27000010,Altere as definições de Rede sem Fios do computador
+WS27000020,Para configurar manualmente a rede sem fios desde este computador, terá que temporariamente alterar as definições de Rede sem Fios deste computador.
+WS27000030,Antes de continuar, anote as actuais definições de rede sem fios.
+WS27000040,Em particular, anote as seguintes:
+WS27000050,Modo de Comunicação (Infra-estrutura / Ad-hoc)
+WS27000060,Canal (1-14) (se aplicável)
+WS27000070,Nome da Rede (SSID / ESSID)
+WS27000080,Método de Autenticação (Sistema aberto / Chave..)
+WS27000090,Modo de Encriptação (Nenhum / WEP / Outro ..)
+WS27000100,Chave de Encriptação
+WS27000110,Para mais informações contacte o seu administrador de rede ou consulte o manual do computador.
+WS27000120,Clique em "Seguinte" para continuar.
+WS28000010,Alterando as definições de Rede sem Fios do computador
+WS28000020,Para comunicar com o equipamento não configurado na rede sem fios, por favor altere as definições da rede sem fios neste computador da seguinte maneira:
+WS28000030,Modo de Comunicação:
+WS28000040,Canal:
+WS28000050,Nome da Rede (SSID)*:
+WS28000060,Modo de Encriptação:
+WS28000070,* Sensível a maiúsculas e minúsculas
+WS28000080,Para mais informações contacte o seu administrador de rede ou consulte o manual do computador.
+WS28000090,Quando as definições de rede sem fios estiverem configuradas, clique em "Seguinte" para continuar.
+WS28000100,Ad-hoc
+WS28000110,11
+WS28000120,SETUP
+WS28000130,Nenhuma
+WS28000140,(se aplicável)
+WS28000150,&Verificado e confirmado
+WS29000010,Alterando as definições de Rede sem Fios do computador
+WS29000020,Para comunicar com o equipamento configurado na rede sem fios, este computador terá que estar configurado na mesma definição da rede sem fios:
+WS29000030,Por favor, aplique manualmente as definições de rede sem fios no seu computador conforme indicado na Página de Configurações de Rede.
+WS29000040,Modo de Comunicação:
+WS29000050,Canal:
+WS29000060,Nome da Rede (SSID)*:
+WS29000070,Método de Autenticação:
+WS29000080,Modo de Encriptação:
+WS29000090,Chave de rede:
+WS29000100,* Sensível a maiúsculas e minúsculas
+WS29000110,Para mais informações contacte o seu administrador de rede ou consulte o manual do computador.
+WS29000120,A "instalação da rede sem fios" está agora completa. Por favor reinicie a firewall para os valores iniciais. Quando as definições de rede sem fios estiverem configuradas, clique em "Seguinte" para continuar.
+WS29000130,(se aplicável)
+WS29000200,&Verificado e confirmado
+WS29000210,Para mais informações contacte o seu administrador de rede ou consulte o manual do computador.
+WS29000220,A "instalação da rede sem fios" está agora completa. Por favor reinicie a firewall para os valores iniciais.
+WS40000010,Verifique o resultado da ligação da “Configuração sem fios” 
+WS40000020,Agora a página "WLAN Report" foi impressa pelo aparelho. Localize <Connection> na página e verifique a descrição para confirmar o resultado da ligação.
+WS40000030,Seleccione o resultado da lista de selecções abaixo e clique em "Seguinte".
+WS40000040,"Connection : OK"
+WS40000050,"Connection : Failed"
+WS40000060,* Esta impressão pode demorar até 2 minutos.
+WS41000010,Tente novamente a "Configuração sem fios"
+WS41000020,A "Configuração sem fios" falhou dado que não consegue associar a uma rede sem fios. Este facto deve-se provavelmente a definições de segurança incorrectas.
+WS41000030,Confirme as definições de segurança da rede sem fios e tente  novamente a "Configuração sem fios" desde o início.
+WS43000000,Configuração da chave de rede
+WS43000010,Introduza a chave de segurança de rede que verificou anteriormente.
+WS43000020,A autenticação de rede sem fios e o tipo de encriptação serão detectados automaticamente. Terá apenas de introduzir a chave de rede.
+
+WS44000010,Configuração de Certificado
+WS44000020,Configure o Certificado de Cliente e a Verificação de Certificado de Servidor.
+WS44000030,Nome (SSID):
+WS44000040,&Certificado de cliente
+WS44000041,
+WS44000050,&Verificação do certificado do servidor
+WS44000051,Sem verificação
+WS44000052,Cert. CA
+WS44000053,Cert. CA + ID do servidor
+WS44000060,&ID do servidor
+WS45000010,Não foi possível estabelecer ligação com a rede
+WS45000020,Verifique se SSID/ESSID ou a chave de segurança de rede que introduziu anteriormente estão correctos.
+WS45000030,Esta informação era:
+WS45000040,SSID/ESSID:
+WS45000050,Chave de rede:
+WS45000060,Se esta informação estiver correcta, verifique também:
+WS45000070,Qualquer outra segurança que possa estar configurada no Ponto de Acesso Sem Fios como, por exemplo, a filtragem de endereço MAC.
+WS45000080,Esse dispositivo está suficientemente próximo do Ponto de Acesso Sem Fios
+WS45000090,Se não tem a certeza destas informações, consulte o seu administrador do sistema, o fornecedor de serviços de Internet ou o fabricante do Ponto de Acesso Sem Fios.
+WS98010010,Erro de configuração
+WS50000010,Confirmação de instalação
+WS50000020,Durante a instalação, as configurações sem fios do computador são detectadas automaticamente. Antes de ligar o dispositivo sem fios a uma rede empresarial, confirme com o administrador de rede.
+WS50000030,Verificado e confirmado
+WS51000010,A detectar configurações de rede sem fios existentes no computador
+WS51000020,As configurações de rede sem fios do computador foram detectadas.
+WS51000030,Nome de rede sem fios detectado (nome do ponto de acesso sem fios/router):
+WS51000040,SSID:
+WS51000050,Quer ligar-se à rede sem fios utilizando estas configurações?
+WS51000060,Sim
+WS51000070,Não
+WS52000010,Não foi possível estabelecer ligação com a rede
+WS52000020,O dispositivo não conseguiu ligar-se ao ponto de acesso sem fios/router.
+WS52000030,SSID:
+WS52000040,Tente a configuração manual.
+WS98010020,Ocorreu um erro de comunicação/configuração ao activar as definições no dispositivo sem fios.
+WS98010030,Certifique-se de que o dispositivo sem fios está ligado e inicializado e, em seguida, tente novamente.
+WS98020010,Atenção
+WS98020020,As definições de rede deste computador não lhe permitem comunicar com o dispositivo de rede sem fios.
+WS98020030,Certifique-se que as ligações Ethernet do seu computador ou as definições de rede sem fios estão activadas, e certifique-se que as definições de rede do seu computador se enquadram com as do equipamento que quer utilizar. Para mais informações contacte o seu administrador de rede ou consulte o manual do computador.
+WS98030010,Erro de comunicação
+WS98030020,Se o seu equipamento sem fios está demasiado longe do ponto de acesso ou do computador, não receberá um bom sinal de recepção. Desloque então o equipamento de rede sem fios para mais perto do ponto de acesso.
+WS98030030,Certifique-se de que o dispositivo sem fios está ligado e inicializado, e, em seguida, tente novamente.
+WS98040010,Erro na localização de dispositivos
+WS98040020,Certifique-se de que configurou correctamente o computador e o dispositivo sem fios, de acordo com o Guia de configuração rápida.
+WS98040030,Se o seu computador utilizar várias interfaces de rede, certifique-se de que activou a placa de interface de rede sem fios apropriada no computador e desactive temporariamente as outras interfaces de rede.
+WS98050010,Chave de rede inválida
+WS98050020,(Chave WEP ASCII)
+WS98050030,Não introduziu correctamente a informação da chave WEP.
+WS98050040,WEP de 128(104) bits: "Wirelesscomms"
+WS98050050,Introduza 5 ou 13 caracteres de texto. Por exemplo:
+WS98050060,WEP de 64(40) bits: "Hello"
+WS98060010,Chave de rede inválida
+WS98060020,(Chave WEP hexadecimal)
+WS98060030,Não introduziu correctamente a informação da chave WEP.
+WS98060040,Introduza 10 ou 26 dígitos de dados hexadecimais. Por exemplo:
+WS98060050,WEP de 64(40) bits: "71f2234aba"
+WS98060060,WEP de 128(104) bits: "71f2234ab56cd709e5412aa3ba"
+WS98070010,Sair da configuração
+WS98070020,A configuração não está concluída.
+WS98070030,Se sair do programa de configuração, o dispositivo sem fios não ficará configurado.
+WS98070040,Para continuar este programa de configuração, clique em "Continuar".
+WS98070050,Para sair deste programa de configuração, clique em "Sair".
+WS98080010,Chaves de rede não correspondem
+WS98080020,Não existe correspondência entre as chaves de rede introduzidas.
+WS98080030,Reescreva as chaves, certificando-se de que introduz os mesmos dados em "Chave de rede" e em "Confirmar chave de rede".
+WS98090010,A inicializar, aguarde por favor...
+WS98100010,Chave de rede inválida
+WS98100020,A frase-passe é uma cadeia ASCII de 8 a 63 caracteres.
+WS98130010,Informações
+WS98130020,Esta ajuda não está habilitada a usar as capacidades de rede sem fios do seu computador para configurar o seu equipamento de rede sem fios. A ajuda tentará agora outro método. Prima "OK" para continuar.
+WS98140010,Palavra-passe inválida
+WS98140020,As palavras-passe não correspondem.
+WS98140030,Por favor escreva novamente as Palavras-Passe assegurando-se que "Palavra-Passe do Utilizador" e a "confirmação da Palavra-Passe do Utilizador" são as mesmas.
+WS98150010,Chave de rede inválida
+WS98150020,Não introduziu correctamente a chave de rede.Introduza 5 ou 8-63 caracteres consoante o método de segurança.
+WS98150030,Para obter mais informações, consulte o texto da Ajuda.
+
+WS98160010,Erro de ligação USB
+WS98160020,Verifique se está ligado um cabo USB ao seu dispositivo.
+WS98160030,Confirme se o seu dispositivo está ligado.
+WS99010010,OK
+WS99010020,Cancelar
+WS99010030,&Sair
+WS99010040,< &Anterior
+WS99010050,&Seguinte >
+WS99010060,A&juda
+WS99010070,Ac&tualizar
+WS99010080,A&dicionar
+WS99010090,&Continuar
+WS99010100,A&vançado
+WS99010110,&Concluir
+WS99010130,Onde está o meu SSID?
+WS99010140,Onde está a minha chave de rede?
+WS99010150,Repetir >
+WS99020100,Sistema aberto
+WS99020110,Chave partilhada
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Nenhum
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020500,EAP-TLS
+WS99030100,NENHUM
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
+W999999999,

@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Todentamismenetelmä ja salaustila</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Todentamismenetelmä ja salaustila</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+Useimmat langattomat verkot käyttävät salausasetuksia. Salausasetukset määrittävät todentamisen (miten laite tunnistetaan verkossa) ja salauksen (miten verkkoon lähetettävät tiedot salataan). Jos näitä langattoman kirjoittimen/monitoimilaitteen asetuksia ei määritetä oikein, se ei saa yhteyttä langattomaan verkkoon. Tämän takia nämä asetukset on määritettävä huolellisesti. Katso alta lisätietoja siitä, mitä todentamis- ja salausmenetelmiä määritettävä langaton kirjoitin/monitoimilaite tukee.
+</td></tr>
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Todentamismenetelmät</b>
+</td></tr>
+<tr><td width="50"></td><td>
+<ul>
+<li> 
+Avoin järjestelmä<br>
+Langattomat laitteet voivat käyttää verkkoa ilman todentamista.<br><br>
+
+<li>
+Jaettu avain (vain infrastruktuuriverkko)<br>
+Langatonta verkkoa käyttävillä laitteilla on ennalta määritetty yhteinen, salainen avain.<br><br>
+<li>
+WPA/WPA2-PSK<br>
+Langatonta verkkoa käyttävillä laitteilla on yhteinen ennalta määritetty salalause. Tämä todentamismenetelmä mahdollistaa suojatun kommunikoinnin tehokkaalla salausmenetelmällä.<br>WPA-/WPA2-PSK-salausta voidaan käyttää vain langattomassa infrastruktuuriverkossa.
+<br><br>
+<li>
+LEAP (ei saatavana kaikille malleille)<br>
+
+Cisco® LEAP (Light Extensible Authentication Protocol) käyttää todennukseen käyttäjätunnusta ja salasanaa.
+<br><br>
+<li>
+EAP-FAST/PEAP/EAP-TTLS  (ei saatavana kaikille malleille)<br>
+
+Cisco® EAP-FAST (Extensible Authentication Protocol-Flexible Authentication via Secure Tunneling)/ PEAP (Protected Extensible Authentication Protocol) /EAP-TTLS (Extensible Authentication Protocol-Tunneled Transport Layer Security) käyttävät todennukseen käyttäjätunnusta ja salasanaa. Palvelimen varmenne voidaan vahvistaa käyttämällä myöntäjän varmennetta.
+<br><br>
+<li>
+EAP-TLS  (ei saatavana kaikille malleille)<br>EAP-TLS (Extensible Authentication Protocol-Transport Layer Security) käyttää todennukseen käyttäjätunnusta ja asiakasvarmennetta. SSL-palvelimen varmenne voidaan myös vahvistaa käyttämällä myöntäjän varmennetta. <br><br>
+</ul>
+
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Sisäiset todennusmenetelmät (ei saatavana kaikille malleille)</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Sinun täytyy määrittää yksi sisäisistä todennusmenetelmistä valitsemasi menetelmän mukaan.
+<ul>
+<li>
+EI MITÄÄN<br>MS-CHAPv2:ta käytetään valmisteluun. Samalla se on EAP-FAST-menetelmä, joka vastaa toisen vaiheen todennusmenetelmää. 
+<br><br>
+
+<li>
+MS-CHAPv2<br>
+MS-CHAPv2(Microsoft-Challenge Handshake Authentication Protocol version 2) on sisäinen todennusmenetelmä seuraaville protokollille: EAP-FAST/PEAP/EAP-TTLS.<br><br>
+<li>
+GTC<br>
+GTC (Generic Token Card) on sisäinen todennusmenetelmä seuraaville protokollille: EAP-FAST/PEAP.<br><br>
+<li>
+MS-CHAP<br>
+MS-CHAP (Microsoft-Challenge Handshake Authentication Protocol) on sisäinen todennusmenetelmä EAP-TTLS-protokollalle.<br><br>
+<li>
+CHAP<br>
+CHAP (Challenge Handshake Authentication Protocol) on sisäinen todennusmenetelmä EAP-TTLS-protokollalle.<br><br>
+<li>
+PAP<br>
+PAP (Password Authentication Protocol) on sisäinen todennusmenetelmä EAP-TTLS-protokollalle.<br><br>
+</ul>
+
+<tr><td width="50"></td><td>
+<b>Salausmenetelmät</b>
+</td></tr>
+<tr><td width="50"></td><td>
+
+<ul>
+<li>Ei mitään<br>
+Salausta ei käytetä.<br><br>
+
+<li>WEP (Wired Equivalent Privacy)<br>
+Tietojen lähetykseen ja vastaanottoon käytetään käyttäjän valitsemaa suojattua avainta.<br><br>
+<li>TKIP<br>
+TKIP (Temporal Key Integrity Protocol) poistaa ennustettavuuden, johon tunkeutujat saattavat luottaa ja jonka avulla heidän onnistuu hyödyntää tietoturva-aukkoja, jotka ovat seurausta manuaalisesti määritetyistä WEP-avaimista. TKIP-avaimet luodaan automaattisesti eivätkä ne ole enää WEP-avaimia.<br><br>
+<li>AES<br>
+AES (Advanced Encryption Standard) on tehokas salausmenetelmä, jolla on Wi-Fi®-valtuutus.<br><br>
+<li>CKIP<br>
+Cisco Systems, Inc:n alkuperäinen LEAP:n avainvarmennusprotokolla.
+</ul>
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

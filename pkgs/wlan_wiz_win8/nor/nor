@@ -1,0 +1,268 @@
+WS01000010,Veiviser for oppsett av trådløs enhet
+WS01000040,1.03
+WS02010010,Velkommen
+WS02010020,Velkommen til veiviseren for trådløst oppsett.
+WS03010010,Søker etter trådløs(e) enhet(er) ......
+WS03020010,Tilgjengelige trådløse enheter
+WS03020020,Det ble funnet mer enn én trådløs enhet.
+WS03020030,Velg enheten du vil konfigurere og klikk på "Neste".
+WS03020040,Nodenavn
+WS03020050,IP-adresse
+WS03020060,MAC-adresse
+WS03020070,Skrivernavn
+WS03020080,Plassering
+WS03020090,Viktig merknad:
+WS03020100,Hvis det ikke vises noen enheter og du bruker en personlig brannmur: Deaktiver brannmuren og klikk på brannmuren for å søke gjennom det trådløse nettverket på nytt.
+WS03020130,Ikke konfigurert
+WS04000010,Konfigurere IP-adresse
+WS04000020,Konfigurere IP-adressen til trådløs enhet
+WS04000030,&Automatisk tildeling av IP-adresse.
+WS04000050,&Stille inn statisk IP-adresse
+WS04000060,I&P-adresse
+WS04000070,Nettverks&maske
+WS04000080,&Gateway
+WS05020010,Navn på trådløst nettverk
+WS05020020,Konfigurere det trådløse nettverksnavnet som enheten skal knyttes til.
+WS05020030,N&avn (SSID)
+WS05020040,&Dette er et Ad-hoc-nettverk, og det finnes ikke et tilgangspunkt.
+WS05020060,&Kanal
+WS05030010,Søker etter trådløse nettverk...
+WS05040010,Tilgjengelige trådløse nettverk
+WS05040020,Velg SSID-en som du merket av på forhånd.
+WS05040040,Navn (SSID)
+WS05040050,Kanal
+WS05040060,Trådløs modus
+WS05040070,Signal
+WS05040080,Tilgangspunkt / basestasjon
+WS05040090,Ad-hoc-nettverk
+WS05040100,Hvis SSID-en (identifikasjon av ditt trådløse tilgangspunkt) ikke vises i denne listen, eller hvis du skjuler den, kan du likevel kanskje konfigurere den ved å klikke på knappen Avansert.
+WS05040110,802.11b/g (11 Mbps / 54 Mbps)
+WS05040120,802.11b (11 Mbps)
+WS05040130,802.11g (54 Mbps)
+WS05040140,802.11b/g/n 
+WS05040150,802.11n
+WS05060010,VIKTIG!
+WS05060020,Dette trådløse nettverket er ikke sikkert. Det bruker ikke sikker pålitelighetskontroll og kryptering. 
+WS05060030,Vil du fortsette med oppsett?
+WS05060040,Navn (SSID):
+WS06000010,Pålitelighetskontrollmetode og krypteringsmodus
+WS06000020,Konfigurere pålitelighetskontrollmetode og krypteringsmodus.
+WS06000030,Pålitelighetskontroll&metode
+WS06000040,&Krypteringsmodus
+WS06000050,N&ettverksnøkkel
+WS06000060,&Bekreft nettverksnøkkel
+WS06000070,Navn (SSID):
+WS06000080,&Indre metode for pålitelighetskontroll
+WS07000010,Bekreftelse på innstillinger for trådløst nettverk.
+WS07000020,Klikk på "Neste" for å sende følgende innstillinger til enheten.
+WS07000040,Målenhet =
+WS07000060,Kommunikasjonsmodus
+WS07000070,Infrastruktur
+WS07000080,Ad-hoc
+WS07000090,Navn (SSID)
+WS07000100,Når du klikker "Neste", vil enheten skrive ut arket "WLAN Report". Les arket for å kontrollere resultatet av tilkoblingen.
+WS07000150,Auto
+WS07000190,IP-adresse
+WS07000200,Nettverksmaske
+WS07000210,Gateway
+WS07000220,Kanal
+WS07000230,Pålitelighetskontrollmetode
+WS07000240,Krypteringsmodus
+WS07000270,&Endre IP-adresse
+WS07000280,Indre metode for pålitelighetskontroll
+WS08010010,Sender innstillinger ...... Vent...
+WS09000010,Husk!
+WS09000020,"Trådløs installasjon" er fullført. Husk å tilbakestille de trådløse innstillingene for datamaskinen til fabrikkstandard, inkludert brannmuren.
+WS09000030,Du må gjenopprette følgende innstillinger:
+WS09000040,Kommunikasjonsmodus (Infrastruktur / Ad-hoc)
+WS09000050,Kanal (1-14)
+WS09000060,Nettverksnavn (SSID / ESSID)
+WS09000070,Pålitelighetskontrollmetode (Åpent system / Delt nøkkel)
+WS09000080,Datakryptering (Ingen / WEP / Annet …)
+WS09000090,Nettverksnøkkel
+WS09000100,Når du har gjenopprettet datamaskinens innstillinger, klikker du på "Neste" for å fortsette.
+WS09000110,&Kontrollert og bekreftet
+WS09000120,Når du har gjenopprettet datamaskinens innstillinger, klikker du på "Ferdig" for å fortsette.
+WS21000010,Pålitelighetskontroll av bruker
+WS21000020,Konfigurere pålitelighetskontrollmetode og krypteringsmodus.
+WS21000030,Navn (SSID):
+WS21000040,Pålitelighetskontroll av bruker
+WS21000050,&Bruker-ID
+WS21000060,B&rukerpassord
+WS21000070,Be&kreft brukerpassord
+WS25000010,Koble tilgangspunktet til enheten ved hjelp av en standard nettverkskabel og klikk på "Neste".
+WS25000030,Koble til din enhet og tilgangspunkt
+WS26000010,Koble fra nettverkskabelen mellom tilgangspunktet og enheten og klikk på "Neste".
+WS26000020,Koble fra din enhet og tilgangspunkt
+WS26000030,"Trådløs installasjon" er fullført. Husk å tilbakestille brannmurinnstillingene. 
+WS26000040,Koble fra nettverkskabelen mellom tilgangspunktet og enheten og klikk på "Ferdig".
+WS27000010,Forandre datamaskinens trådløse innstillinger
+WS27000020,For å manuelt konfigurere den trådløse enhetens innstillinger fra denne datamaskinen, må du endre denne datamaskinens trådløse innstillinger.
+WS27000030,Før du fortsetter må du notere de gjeldende innstillingene.
+WS27000040,Se spesielt etter følgende:
+WS27000050,Kommunikasjonsmodus (Infrastruktur / Ad-hoc)
+WS27000060,Kanal (1-14)
+WS27000070,Nettverksnavn (SSID / ESSID)
+WS27000080,Pålitelighetskontrollmetode (Åpent system / Delt nøkkel)
+WS27000090,Datakryptering (Ingen / WEP / Annet …)
+WS27000100,Nettverksnøkkel
+WS27000110,Kontakt din nettverksadministrator eller se i datamaskinens bruksanvisning for ytterligere informasjon.
+WS27000120,Klikk "Neste" for å fortsette.
+WS28000010,Forandre datamaskinens trådløse innstillinger
+WS28000020,For å kommunisere med en ikke konfigurert trådløsenhet, endre denne datamaskinens trådløse innstillinger til følgende:
+WS28000030,Kommunikasjonsmodus:
+WS28000040,Kanal:
+WS28000050,Nettverksnavn: (SSID)*:
+WS28000060,Datakryptering:
+WS28000070,*Skiller mellom små og store bokstaver
+WS28000080,Kontakt din nettverksadministrator eller se i datamaskinens bruksanvisning for ytterligere informasjon.
+WS28000090,Når du har konfigurert de trådløse innstillingene, klikker du på "Neste" for å fortsette.
+WS28000100,Ad-hoc
+WS28000110,11
+WS28000120,SETUP
+WS28000130,Ingen
+WS28000140,(hvis nødvendig)
+WS28000150,&Kontrollert og bekreftet
+WS29000010,Forandre datamaskinens trådløse innstillinger
+WS29000020,For å kommunisere med en konfigurert trådløsenhet, må din datamaskin benytte samme trådløse innstillinger:
+WS29000030,Still manuelt inn de samme trådløse innstillingene på datamaskinen din som vist på siden for nettverkskonfigurasjon.
+WS29000040,Kommunikasjonsmodus:
+WS29000050,Kanal:
+WS29000060,Nettverksnavn: (SSID)*:
+WS29000070,Pålitelighetskontrollmetode:
+WS29000080,Datakryptering:
+WS29000090,Nettverksnøkkel:
+WS29000100,*Skiller mellom små og store bokstaver
+WS29000110,Kontakt din nettverksadministrator eller se i datamaskinens bruksanvisning for ytterligere informasjon.
+WS29000120,"Trådløs installasjon" er fullført. Husk å tilbakestille brannmurinnstillingene. Når du har konfigurert de trådløse innstillingene, klikker du på "Neste" for å fortsette.
+WS29000130,(hvis nødvendig)
+WS29000200,&Kontrollert og bekreftet
+WS29000210,Kontakt din nettverksadministrator eller se i datamaskinens bruksanvisning for ytterligere informasjon.
+WS29000220,"Trådløs installasjon" er fullført. Husk å tilbakestille brannmurinnstillingene.
+WS40000010,Kontroller resultatet avtilkobling av Trådløst oppsett 
+WS40000020,Enheten har skrevet ut arket "WLAN Report". Finn <Connection> på arket, og les beskrivelsen for å kontrollere resultatet av tilkoblingen.
+WS40000030,Velg resultatet fra listen over valg nedenfor, og klikk Neste.
+WS40000040,"Connection : OK"
+WS40000050,"Connection : Failed"
+WS40000060,* Denne utskriften kan ta opptil 2 minutter.
+WS41000010,Prøv Trådløst oppsett på nytt
+WS41000020,Trådløst oppsett mislyktes fordi det ikke kunne koble til et trådløst nettverk. Dette skyldes trolig feil sikkerhetsinnstillinger.
+WS41000030,Kontroller sikkerhetsinnstillingene for det trådløse nettverket, og prøv Trådløst oppsett på nytt fra starten.
+WS43000000,Konfigurasjon av nettverksnøkkel
+WS43000010,Tast inn sikkerhetsnøkkelen for nettverket som du kontrollerte tidligere.
+WS43000020,Pålitelighetskontrollen og krypteringstypen for det trådløse nettverket registreres automatisk. Det er kun nødvendig å skrive inn nettverksnøkkelen.
+
+WS44000010,Konfigurasjon av sertifikat
+WS44000020,Konfigurer klientsertifikatet og serveren Bekreftelse av sertifikat.
+WS44000030,Navn (SSID):
+WS44000040,&Klientsertifikat
+WS44000041,
+WS44000050,Bekreftelse &av serversertifikat
+WS44000051,Ingen bekreftelse
+WS44000052,CA-sert.
+WS44000053,CA-sert. + server-ID
+WS44000060,&Server-ID
+WS45000010,Klarte ikke å koble til nettverket
+WS45000020,Kontroller at SSID/ESSID eller sikkerhetsnøkkelen for nettverket som du tastet inn tidligere, er korrekt.
+WS45000030,Denne informasjonen var:
+WS45000040,SSID/ESSID:
+WS45000050,Nettverksnøkkel:
+WS45000060,Hvis denne informasjonen stemmer, kontroller også:
+WS45000070,Eventuelle andre sikkerhetsprogrammer som kan være konfigurert på det trådløse tilgangspunktet, slik som MAC-adressefiltrering.
+WS45000080,At enheten er nær nok til det trådløse tilgangspunktet
+WS45000090,Hvis du er usikker på dette, rådfør deg med systemadministratoren din, internettleverandøren eller produsenten av det trådløse tilgangspunktet.
+WS50000010,Installasjonsbekreftelse
+WS50000020,Under installasjonen blir de trådløse innstillingene på datamaskinen registrert automatisk. Forhør deg med systemansvarlig før du kobler den trådløse enheten til et firmanettverk.
+WS50000030,Kontrollert og bekreftet
+WS51000010,Registrerer eksisterende innstillinger for trådløst nettverk på datamaskinen
+WS51000020,Innstillingene for trådløst nettverk på datamaskinen er blitt registrert.
+WS51000030,Registrert navn på trådløst nettverk (navn på trådløst tilgangspunkt / ruter):
+WS51000040,SSID:
+WS51000050,Vil du koble til det trådløse nettverket med disse innstillingene?
+WS51000060,Ja
+WS51000070,Nei
+WS52000010,Kan ikke koble til nettverket
+WS52000020,Enheten kan ikke kobles til det trådløse tilgangspunktet / ruteren. 
+WS52000030,SSID:
+WS52000040,Prøv manuelt oppsett.
+WS98010010,Konfigurasjonsfeil
+WS98010020,Det oppsto en kommunikasjons-/konfigureringsfeil da innstillingene ble sendt til den trådløse enheten.
+WS98010030,Sjekk at den trådløse enheten er slått på og initialisert, og prøv på nytt.
+WS98020010,Viktig
+WS98020020,Denne datamaskinens nettverkinnstillinger bruker en IP-adresse som ikke tillater at du kommuniserer med den trådløse nettverksenheten.
+WS98020030,Kontroller at din datamaskins ethernett tilkobling eller trådløse tilkobling er aktivert, kontroller at din datamaskins nettverksinnstillinger stemmer overens med innstillingene på enheten du vil benytte. Kontakt din nettverksadministrator eller referer til datamaskinens brukerhåndbok for ytterligere informasjon.
+WS98030010,Kommunikasjonsfeil
+WS98030020,Om din trådløse enhet er for langt fra aksesspunkt eller din datamaskin, vil den ikke kunne motta et bra trådløst signal. Flytt din trådløse enhet nærmere ditt trådløse aksesspunkt.
+WS98030030,Sjekk at den trådløse enheten er slått på og initialisert, og prøv på nytt.
+WS98040010,Feilfinnende enheter
+WS98040020,Sjekk at datamaskinen og trådløse enhet er riktig konfigurert i henhold til hurtigoppsettguiden.
+WS98040030,Hvis datamaskinen din bruker flere nettverksgrensesnitt, må du sjekke at riktig trådløst nettverksgrensesnittkort er aktivert på datamaskinen, og midlertidig deaktivere alle andre nettverksgrensesnitt.
+WS98050010,Ugyldig nettverksnøkkel
+WS98050020,(ASCII WEP-nøkkel)
+WS98050030,Du har ikke angitt korrekt WEP-nøkkelinformasjon.
+WS98050040,128 (104) bit WEP: "Wirelesscomms"
+WS98050050,Angi 5 eller 13 bokstavtegn. Eksempel:
+WS98050060,64 (40) bit WEP: "Hallo"
+WS98060010,Ugyldig nettverksnøkkel
+WS98060020,(Heksadesimal WEP-nøkkel)
+WS98060030,Du har ikke angitt korrekt WEP-nøkkelinformasjon.
+WS98060040,Angi ti eller 26 tegn med heksadesimale data. Eksempel:
+WS98060050,64 (40) bit WEP: "71f2234aba"
+WS98060060,128 (104) bit WEP: "71f2234ab56cd709e5412aa3ba"
+WS98070010,Avslutte oppsett
+WS98070020,Oppsett er ikke fullført.
+WS98070030,Hvis du avslutter oppsettprogrammet, blir den trådløse enheten ikke konfigurert.
+WS98070040,For å fortsette dette oppsettprogrammet, klikk på "Fortsett".
+WS98070050,For å avslutte dette oppsettprogrammet, klikk på "Avslutt".
+WS98080010,Nettverksnøklene samsvarer ikke.
+WS98080020,Nettverksnøklene du har angitt matcher ikke.
+WS98080030,Angi nøklene på nytt, og sørg for at "Nettverksnøkkel" og "Bekreft nettverksnøkkel" er den samme.
+WS98090010,Vennligst vent…
+WS98100010,Ugyldig nettverksnøkkel
+WS98100020,Passordfrasen er en streng på 8–63 tegn i ASCII-format.
+WS98130010,Informasjon
+WS98130020,Guiden kan ikke benytte denne datamaskinens trådløse funksjoner for å  konfigurere din trådløse enhet. Guiden kommer å forsøke seg med en annen metode. Klikk "OK" for å fortsette.
+WS98140010,Ugyldig passord
+WS98140020,Passordene er ulike.
+WS98140030,Vennligst skriv inn passordet på nytt for å bekrefte at "Brukerpassord" og "Bekreft brukerpassord" er like.
+WS98150010,Ugyldig nettverksnøkkel
+WS98150020,Du skrev ikke inn nettverksnøkkelen riktig.Skriv inn 5 eller 8-63 tegn, avhengig av valgt sikkerhetsmetode.
+WS98150030,Se i Hjelp hvis du vil ha mer informasjon.
+
+WS98160010,USB-tilkoblingsfeil
+WS98160020,Bekreft at en USB-kabel er koblet til enheten.
+WS98160030,Bekreft at enheten er på.
+WS99010010,OK
+WS99010020,Avbryt
+WS99010030,A&vslutt
+WS99010040,< &Tilbake
+WS99010050,&Neste >
+WS99010060,&Hjelp
+WS99010070,&Oppdater
+WS99010080,&Legg til
+WS99010090,&Fortsett
+WS99010100,&Avansert
+WS99010110,&Ferdig
+WS99010130,Hvor er min SSID?
+WS99010140,Hvor er nettverksnøkkelen min?
+WS99010150,Prøv igjen >
+WS99020100,Åpent system
+WS99020110,Delt nøkkel
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Ingen
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020500,EAP-TLS
+WS99030100,INGEN
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
+W999999999,

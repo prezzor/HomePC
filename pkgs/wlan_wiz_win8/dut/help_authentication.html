@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Verificatiemethode en versleutelingsmodus</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Verificatiemethode en versleutelingsmodus</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+De meeste draadloze netwerken gebruiken bepaalde beveiligingsinstellingen. Deze beveiligingsinstellingen bepalen de verificatie (de manier waarop het apparaat zich bij het netwerk bekend maakt) en de versleuteling (de manier waarop de gegevens versleuteld worden wanneer deze naar het netwerk gestuurd worden). Als u tijdens het configureren van de draadloze printer/MFC bij deze opties een fout maakt, kan het apparaat geen verbinding met het draadloze netwerk maken. Deze opties moeten derhalve zorgvuldig geconfigureerd worden. Raadpleeg de onderstaande informatie om te zien welke methoden voor verificatie en versleuteling door deze printer/MFC ondersteund worden.
+</td></tr>
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Verificatiemethoden</b>
+</td></tr>
+<tr><td width="50"></td><td>
+<ul>
+<li> 
+Open systeem<br>
+Draadloze apparaten worden zonder enige verificatie op het netwerk toegelaten.<br><br>
+
+<li>
+Gedeelde sleutel (alleen in infrastructuurmodus)<br>
+Alle apparaten die toegang tot het netwerk wensen, delen een geheime, vooraf gedefinieerde sleutel. <br><br>
+<li>
+WPA/WPA2-PSK<br>
+Alle apparaten die toegang tot het netwerk wensen, delen een geheime, vooraf gedefinieerde wachtzin. Met deze verificatiemethode kunt u dankzij een krachtige versleuteling veilig communiceren.<br>WPA/WPA2-PSK kan alleen worden gebruikt in een draadloos infrastructuurnetwerk.
+<br><br>
+<li>
+LEAP (Niet beschikbaar voor sommige modellen)<br>
+
+Cisco® LEAP (Light Extensible Authentication Protocol) is ontwikkeld door Cisco Systems, Inc. en gebruikt voor de verificatie een gebruikersidentificatie en wachtwoord.
+<br><br>
+<li>
+EAP-FAST/PEAP/EAP-TTLS (Niet beschikbaar voor sommige modellen)<br>
+
+Cisco® EAP-FAST (Extensible Authentication Protocol-Flexible Authentication via Secure Tunneling)/ PEAP (Protected Extensible Authentication Protocol) /EAP-TTLS (Extensible Authentication Protocol-Tunneled Transport Layer Security) werken met een gebruikersnaam en wachtwoord voor de verificatie. U kunt het servercertificaat verifiëren met het CA-certificaat.
+<br><br>
+<li>
+EAP-TLS (Niet beschikbaar voor sommige modellen)<br>EAP-TLS (Extensible Authentication Protocol-Transport Layer Security) werkt voor de verificatie met een gebruikersnaam en clientcertificaat. U kunt het SSL-servercertificaat ook verifiëren met het CA-certificaat.<br><br>
+</ul>
+
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Interne verificatiemethoden (Niet beschikbaar voor sommige modellen)</b>
+</td></tr>
+<tr><td width="50"></td><td>
+U moet een van de interne verificatiemethoden opgeven, afhankelijk van uw selectie.
+<ul>
+<li>
+GEEN<br>MS-CHAPv2 wordt gebruikt voor het doorvoeren van mutaties (provisioning) en de methode voor EAP-FAST behorend bij de verificatiemethode voor de tweede fase.
+<br><br>
+
+<li>
+MS-CHAPv2<br>
+MS-CHAPv2 (Microsoft-Challenge Handshake Authentication Protocol versie 2) is een interne verificatiemethode voor EAP-FAST/PEAP/EAP-TTLS.<br><br>
+<li>
+GTC<br>
+GTC (Generic Token Card) is een interne verificatiemethode voor EAP-FAST/PEAP.<br><br>
+<li>
+MS-CHAP<br>
+MS-CHAP (Microsoft-Challenge Handshake Authentication Protocol) is een interne verificatiemethode voor EAP-TTLS.<br><br>
+<li>
+CHAP<br>
+CHAP (Challenge Handshake Authentication Protocol) is een interne verificatiemethode voor EAP-TTLS.<br><br>
+<li>
+PAP<br>
+PAP (Password Authentication Protocol) is een interne verificatiemethode voor EAP-TTLS.<br><br>
+</ul>
+
+<tr><td width="50"></td><td>
+<b>Versleutelingsmethoden</b>
+</td></tr>
+<tr><td width="50"></td><td>
+
+<ul>
+<li>Geen<br>
+Er wordt geen versleuteling gebruikt.<br><br>
+
+<li>WEP (Wired Equivalent Privacy)<br>
+Gegevens worden verzonden en ontvangen met een veilige sleutel, die door de gebruiker wordt gekozen.<br><br>
+<li>TKIP <br>
+TKIP (Temporal Key Integrity Protocol) heft de voorspelbaarheid op die kon worden misbruikt om de beveiliging te kraken (dit was mogelijk met handmatig toegewezen WEP-sleutels). TKIP-sleutels worden automatisch toegewezen en zijn langer dan WEP-sleutels.<br><br>
+<li>AES<br>
+AES (Advanced Encryption Standard) is een door Wi-Fi® geautoriseerde krachtige versleutingsnorm.<br><br>
+<li>CKIP<br>
+Het oorspronkelijke Key Integrity Protocol voor LEAP van Cisco Systems, Inc.
+
+</ul>
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

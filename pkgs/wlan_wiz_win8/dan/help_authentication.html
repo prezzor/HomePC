@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Godkendelsesmetode og krypteringsmetode</title>
+
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Godkendelsesmetode og krypteringsmetode</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+De fleste trådløse netværk har en form for sikkerhedsindstillinger. Disse sikkerhedsindstillinger bestemmer godkendelsen (hvordan enheden identificerer sig selv på netværket) og krypteringen (hvordan data krypteres, når de sendes på netværket). Hvis du ikke angiver disse indstillinger korrekt, når du konfigurer den trådløse printer/multifunktionsmaskine, kan den ikke opnå forbindelse til det trådløse netværk. Det er derfor vigtigt at være omhyggelig ved konfigureringen af disse indstillinger. Nedenfor kan du se, hvilke godkendelses- og krypteringsmetoder den trådløse printer/multifunktionsmaskine understøtter.
+</td></tr>
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Godkendelsesmetoder</b>
+</td></tr>
+<tr><td width="50"></td><td>
+<ul>
+<li> 
+Åbent system<br>
+Trådløse enheder får adgang til netværket uden at behøve godkendelse. <br><br>
+
+<li>
+Delt nøgle (kun Infrastruktur-mode)<br>
+En hemmelig nøgle, der er afgjort på forhånd, og som alle enheder, der vil have adgang til netværket, deler.<br><br>
+<li>
+WPA/WPA2-PSK<br>
+En forudbestemt hemmelig nøgle, deles af alle enheder der ønsker adgang til det trådløse netværk. Denne godkendelsesmetode sætter dig i stand til at kommunikere sikkert ved hjælp af en stærk krypteringsmetode.<br>WPA/WPA2-PSK må kun anvendes i et trådløst infrastrukturnetværk.
+<br><br>
+<li>
+LEAP (Ikke tilgængelig for visse modeller)<br>
+
+Cisco® LEAP (Light Extensible Authentication Protocol) anvender bruger-id og adgangskode til godkendelse.
+<br><br>
+<li>
+EAP-FAST/PEAP/EAP-TTLS  (Ikke tilgængelig for visse modeller)<br>
+
+Cisco® EAP-FAST (Extensible Authentication Protocol-Flexible Authentication via Secure Tunneling)/ PEAP (Protected Extensible Authentication Protocol) /EAP-TTLS (Extensible Authentication Protocol-Tunneled Transport Layer Security) anvender en bruger-id og adgangskode til godkendelse. Du kan verificere servercertifikatet vha. CA-certifikatet.
+<br><br>
+<li>
+EAP-TLS (Ikke tilgængelig for visse modeller)<br>EAP-TLS (Extensible Authentication Protocol-Transport Layer Security) anvender en bruger-id og et klientcertifikat til godkendelse. Du kan også verificere SSL-servercertifikatet vha. CA-certifikatet. <br><br>
+</ul>
+
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Interne godkendelsesmetoder  (Ikke tilgængelig for visse modeller)</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Du skal angive en af de interne godkendelsesmetoder i henhold til den, du har valgt.
+<ul>
+<li>
+INGEN<br>MS-CHAPv2 anvendes til klargøring, og metoden for EAP-FAST svarer til anden fase i godkendelsesmetoden. 
+<br><br>
+
+<li>
+MS-CHAPv2<br>
+MS-CHAPv2 (Microsoft-Challenge Handshake Authentication Protocol version 2) er en intern godkendelsesmetode til EAP-FAST/PEAP/EAP-TTLS.<br><br>
+<li>
+GTC<br>
+GTC (Generic Token Card) er en intern godkendelsesmetode til EAP-FAST/PEAP.<br><br>
+<li>
+MS-CHAP<br>
+MS-CHAP (Microsoft-Challenge Handshake Authentication Protocol) er en intern godkendelsesmetode til EAP-TTLS.<br><br>
+<li>
+CHAP<br>
+CHAP (Challenge Handshake Authentication Protocol) er en intern godkendelsesmetode til EAP-TTLS.<br><br>
+<li>
+PAP<br>
+PAP (Password Authentication Protocol) er en intern godkendelsesmetode til EAP-TTLS.<br><br>
+</ul>
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Krypteringsmetoder</b>
+</td></tr>
+<tr><td width="50"></td><td>
+
+<ul>
+<li>Ingen<br>
+Der bruges ingen krypteringsmetode.<br><br>
+
+<li>WEP (Wired Equivalent Privacy)<br>
+Data sendes og modtages med en sikker nøgle, som brugeren har valgt.<br><br>
+<li>TKIP<br>
+TKIP (Temporal Key Integrity Protocol) fjerner den forudsigelighed, som uautoriserede personer kunne bruge til at udnytte sikkerhedsmæssige svagheder, der kan opstå i forbindelse med manuelt tildelte WEP-nøgler. TKIP-nøgler genereres automatisk og er længere end WEP-nøgler<br><br>
+<li>AES<br>
+AES (Advanced Encryption Standard) er stærk Wi-Fi(R)-autoriseret krypteringsstandard.<br><br>
+<li>CKIP<br>
+Den originale Key Integrity Protocol til LEAP fra Cisco Systems, Inc.
+</ul>
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+
+</body>
+</html>

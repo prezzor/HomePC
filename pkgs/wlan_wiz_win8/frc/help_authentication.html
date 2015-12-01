@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Méthode d’authentification et mode de cryptage</title>
+
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Méthode d’authentification et mode de cryptage</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+La plupart des réseaux sans fil utilisent des paramètres de sécurité. Ces paramètres définissent l’authentification (la façon dont l’appareil s’identifie auprès du réseau) et le cryptage (la façon dont les données sont codées quand elles sont envoyées sur le réseau). Si vous ne spécifiez pas ces options correctement quand vous configurez votre appareil multifonction/imprimante sans fil, il ne pourra pas se connecter au réseau sans fil. Il est donc essentiel de bien les définir. Veuillez consulter les informations ci-dessous pour déterminer les méthodes d’authentification et de cryptage prises en charge par votre appareil multifonction/imprimante sans fil.
+</td></tr>
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Méthodes d’authentification</b>
+</td></tr>
+<tr><td width="50"></td><td>
+<ul>
+<li>
+Système ouvert<br>
+Les appareils sans fil sont autorisés à accéder au réseau sans authentification.<br><br>
+
+<li>
+Clef partagée (mode Infrastructure uniquement)<br>
+Une clé secrète prédéterminée est partagée par tous les appareils qui accéderont au réseau sans fil.<br><br>
+<li>
+WPA/WPA2-PSK<br>
+Une phrase codée secrète prédéterminée est partagée par tous les périphériques qui accéderont au réseau sans fil. Cette méthode d'authentification vous permet de communiquer de façon sûre à l'aide d'une puissante méthode de cryptage.<br>WPA/WPA2-PSK peut uniquement être utilisé sur un réseau à infrastructure sans fil.
+<br><br>
+<li>
+LEAP (non disponible sur certains modèles)<br>
+
+Cisco® LEAP (Light Extensible Authentication Protocol) a été développé par Cisco Systems, Inc. et utilise un nom d'utilisateur et un mot de passe pour l'authentification.
+<br><br>
+<li>
+EAP-FAST/PEAP/EAP-TTLS  (non disponible sur certains modèles)<br>
+
+Les protocoles EAP-FAST (Extensible Authentication Protocol-Flexible Authentication via Secure Tunneling)/ PEAP (Protected Extensible Authentication Protocol) /EAP-TTLS (Extensible Authentication Protocol-Tunneled Transport Layer Security) Cisco® utilisent un nom d'utilisateur et un mot de passe pour l'authentification. Vous pouvez vérifier le certificat de serveur à l'aide du certificat AC.
+<br><br>
+<li>
+EAP-TLS (non disponible sur certains modèles)<br>Le protocole EAP-TLS (Extensible Authentication Protocol-Transport Layer Security) utilise un nom d'utilisateur et un certificat client pour l'authentification.Vous pouvez également vérifier le certificat de serveur SSL à l'aide du certificat AC.<br><br>
+</ul>
+
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Méthodes d'authentification internes(non disponible sur certains modèles)</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Vous devez spécifier une des méthodes d'authentification internes en fonction de celle sélectionnée.
+<ul>
+<li>
+AUCUNE<br>La méthode MS-CHAPv2 est utilisée pour la mise à disposition, il s'agit de la méthode pour EAP-FAST qui correspond à une méthode d'authentification de deuxième phase. 
+<br><br>
+
+<li>
+MS-CHAPv2<br>
+La méthode MS-CHAPv2 (Microsoft-Challenge Handshake Authentication Protocol version 2) est une méthode d'authentification interne pour EAP-FAST/PEAP/EAP-TTLS.<br><br>
+<li>
+GTC<br>
+La méthode GTC (Generic Token Card) est une méthode d'authentification interne pour EAP-FAST/PEAP.<br><br>
+<li>
+MS-CHAP<br>
+La méthode MS-CHAP (Microsoft-Challenge Handshake Authentication Protocol) est une méthode d'authentification interne pour EAP-TTLS.<br><br>
+<li>
+CHAP<br>
+La méthode CHAP (Challenge Handshake Authentication Protocol) est une méthode d'authentification interne pour EAP-TTLS.<br><br>
+<li>
+PAP<br>
+La méthode PAP (Password Authentication Protocol) est une méthode d'authentification interne pour EAP-TTLS.<br><br>
+</ul>
+
+
+
+
+<tr><td width="50"></td><td>
+<b>Méthodes de cryptage</b>
+</td></tr>
+<tr><td width="50"></td><td>
+
+<ul>
+<li>Aucun<br>
+Aucune méthode de cryptage n’est utilisée.<br><br>
+
+<li>WEP (Wired Equivalent Privacy)<br>
+Les données sont transmises et reçues avec une clé sécurisée choisie par l'utilisateur.<br><br>
+<li>TKIP<br>
+Le protocole TKIP (Temporal Key Integrity Protocol) supprime l'aspect prévisible sur lequel s'appuient les pirates pour exploiter les failles de sécurité créées par l'utilisation de clés WEP attribuées manuellement. Les clés TKIP sont générées automatiquement et sont plus longues que les clés WEP.<br><br>
+<li>AES<br>
+AES (Advanced Encryption Standard) est une norme de cryptage fort compatible Wi-Fi®.<br><br>
+<li>CKIP<br>
+Le protocole exclusif pour LEAP de Cisco Systems, Inc., qui utilise l'intégrité d'un message clé.
+</ul>
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

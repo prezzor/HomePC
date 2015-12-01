@@ -1,0 +1,268 @@
+WS01000010,Asistente para la configuración del dispositivo inalámbrico
+WS01000040,1.03
+WS02010010,Bienvenida
+WS02010020,Bienvenido al asistente de configuración inalámbrica
+WS03010010,Buscando el(los) dispositivo(s) inalámbrico(s)...
+WS03020010,Dispositivos inalámbricos disponibles
+WS03020020,Se ha encontrado más de un dispositivo inalámbrico.
+WS03020030,Seleccione el dispositivo que desea configurar y haga clic en "Siguiente".
+WS03020040,Nombre de nodo
+WS03020050,Dirección IP
+WS03020060,Dirección MAC
+WS03020070,Nombre de impresora
+WS03020080,Ubicación
+WS03020090,Aviso importante:
+WS03020100,Si no aparece ningún dispositivo y está ejecutando una aplicación de cortafuegos. Desactive la aplicación de cortafuegos y haga clic en el botón Actualizar para volver a realizar la búsqueda en la red inalámbrica.
+WS03020130,Sin configurar
+WS04000010,Configuración de la dirección IP
+WS04000020,Configure la dirección IP del dispositivo inalámbrico
+WS04000030,&Obtener una dirección IP automáticamente.
+WS04000050,&Establecer una dirección IP estática
+WS04000060,&Dirección IP
+WS04000070,&Máscara de subred
+WS04000080,&Puerta de acceso
+WS05020010,Nombre de la red inalámbrica
+WS05020020,Configure el nombre de la red inalámbrica con el que se asociará el dispositivo.
+WS05020030,&Nombre (SSID)
+WS05020040,&Ésta es una red Ad-hoc y no hay punto de acceso.
+WS05020060,&Canal
+WS05030010,Buscando redes inalámbricas...
+WS05040010,Redes inalámbricas disponibles
+WS05040020,Seleccione el SSID que ha comprobado por adelantado.
+WS05040040,Nombre (SSID)
+WS05040050,Canal
+WS05040060,Modo inalámbrico
+WS05040070,Señal
+WS05040080,Punto de acceso / Estación base
+WS05040090,Red Ad-hoc
+WS05040100,Si el SSID (Identificación de su Punto de acceso inalámbrico) no aparece en esta lista, o si está oculto, aún así es posible configurarlo haciendo clic en el botón 'Avanzada'.
+WS05040110,802.11b/g (11 Mbps/54 Mbps)
+WS05040120,802.11b (11 Mbps)
+WS05040130,802.11g (54 Mbps)
+WS05040140,802.11b/g/n 
+WS05040150,802.11n
+WS05060010,¡¡ATENCIÓN!!
+WS05060020,Esta red inalámbrica no es segura. No utiliza autentificación y encriptación seguras. 
+WS05060030,¿Desea continuar la configuración?
+WS05060040,Nombre (SSID):
+WS06000010,Método de autentificación y Modo de encriptación
+WS06000020,Configure el Método de autentificación y el Modo de encriptación
+WS06000030,&Método de autentificación
+WS06000040,Modo de &encriptación
+WS06000050,Clave de &red
+WS06000060,&Confirmar la clave de red
+WS06000070,Nombre (SSID):
+WS06000080,Método &interno de autenticación
+WS07000010,Confirmación de la configuración inalámbrica
+WS07000020,Haga clic en "Siguiente" para enviar la siguiente configuración al dispositivo
+WS07000040,Dispositivo de destino =
+WS07000060,Modo de comunicación
+WS07000070,Infraestructura
+WS07000080,Ad-hoc
+WS07000090,Nombre (SSID)
+WS07000100,Después de hacer clic en "Siguiente", el dispositivo imprimirá la página "WLAN Report". Revísela para confirmar el resultado de la conexión.
+WS07000150,Automática
+WS07000190,Dirección IP
+WS07000200,Máscara de subred
+WS07000210,Puerta de acceso
+WS07000220,Canal
+WS07000230,Método de autentificación
+WS07000240,Modo de encriptación
+WS07000270,&Cambiar dirección IP
+WS07000280,Método interno de autenticación
+WS08010010,Enviando la configuración... Espere…
+WS09000010,¡Recuerde!
+WS09000020,La "Configuración inalámbrica" ha finalizado. No olvide restaurar la configuración inalámbrica de su ordenador a la configuración original, incluyendo el cortafuegos.
+WS09000030,Asegúrese de que restaura la siguiente configuración:
+WS09000040,Modo de comunicación: (Infraestructura / Ad-hoc)
+WS09000050,Canal(1-14) (si es aplicable)
+WS09000060,Nombre de red (SSID / ESSID)
+WS09000070,Método de autentificación (Sistema abierto / Clave compartida)
+WS09000080,Modo de encriptación (Ninguna / WEP / Otros...)
+WS09000090,Clave de encriptación
+WS09000100,Una vez haya restaurado la configuración del sistema, haga clic en "Siguiente" para continuar.
+WS09000110,&Comprobado y confirmado
+WS09000120,Una vez haya restaurado la configuración del sistema, haga clic en "Finalizar" para continuar.
+WS21000010,Autenticación de usuario
+WS21000020,Configure el Método de autentificación y el Modo de encriptación
+WS21000030,Nombre (SSID):
+WS21000040,Autenticación de usuario
+WS21000050,ID de &usuario
+WS21000060,Con&traseña de usuario
+WS21000070,&Confirmar contraseña de usuario
+WS25000010,Conecte su punto de acceso con el dispositivo usando un cable de red estándar y haga clic en "Siguiente".
+WS25000030,Conectando su dispositivo al punto de acceso
+WS26000010,Desconecte el cable de red entre su punto de acceso y el dispositivo y haga clic en "Siguiente".
+WS26000020,Desconectando su dispositivo del punto de acceso
+WS26000030,La "Configuración inalámbrica" ha finalizado. No olvide restaurar el cortafuego a su configuración original.
+WS26000040,Desconecte el cable de red entre su punto de acceso y el dispositivo y haga clic en "Finalizar".
+WS27000010,Cambiando las configuraciones inalámbricas del ordenador
+WS27000020,Para configurar manualmente el dispositivo inalámbrico desde el ordenador, debe cambiar temporalmente la actual configuración inalámbrica de su ordenador.
+WS27000030,Antes de continuar, tome nota de la configuración actual de la red inalámbrica.
+WS27000040,En particular, tome nota de lo siguiente:
+WS27000050,Modo de comunicación: (Infraestructura / Ad-hoc)
+WS27000060,Canal(1-14) (si es aplicable)
+WS27000070,Nombre de red (SSID / ESSID)
+WS27000080,Método de autentificación (Sistema abierto / Clave compartida)
+WS27000090,Modo de encriptación (Ninguna / WEP / Otros...)
+WS27000100,Clave de encriptación
+WS27000110,Por favor contacte con su administrador de red o refiérase a la Guía del usuario de su ordenador para más información.
+WS27000120,Haga clic en "Siguiente" para continuar.
+WS28000010,Cambiando las configuraciones inalámbricas del ordenador
+WS28000020,Para comunicar con el dispositivo inalámbrico no configurado, por favor cambie las configuraciones inalámbricas de su ordenador como se describe:
+WS28000030,Modo de comunicación:
+WS28000040,Canal:
+WS28000050,Nombre de red (SSID)*:
+WS28000060,Modo de encriptación:
+WS28000070,* Distingue entre mayúsculas/minúsculas
+WS28000080,Por favor contacte con su administrador de red o refíerase a la Guía del usuario de su ordenador para más información.
+WS28000090,Cuando haya terminado la configuración inalámbrica de la red, haga clic en Siguiente para continuar.
+WS28000100,Ad-hoc
+WS28000110,11
+WS28000120,SETUP
+WS28000130,Ninguno
+WS28000140,(si es aplicable)
+WS28000150,&Comprobado y confirmado
+WS29000010,Cambiando las configuraciones inalámbricas del ordenador.
+WS29000020,Para comunicar con el dispositivo inalámbrico configurado, su ordenador debe ser configurado para usar las mismas configuraciones inalámbricas. 
+WS29000030,Aplique manualmente la misma configuración inalámbrica que aparece en la página de configuración de la red del equipo.
+WS29000040,Modo de comunicación:
+WS29000050,Canal:
+WS29000060,Nombre de red (SSID)*:
+WS29000070,Método de autentificación:
+WS29000080,Modo de encriptación:
+WS29000090,Clave de red:
+WS29000100,* Distingue entre mayúsculas/minúsculas
+WS29000110,Por favor contacte con su administrador de red o refiérase a la Guía del usuario de su ordenador para más información.
+WS29000120,La "Configuración inalámbrica" ha finalizado. No olvide restaurar el cortafuego a su configuración original. Cuando haya terminado la configuración inalámbrica de la red, haga clic en "Siguiente" para continuar.
+WS29000130,(si es aplicable)
+WS29000200,&Comprobado y confirmado
+WS29000210,Por favor contacte con su administrador de red o refiérase a la Guía del usuario de su ordenador para más información.
+WS29000220,La "Configuración inalámbrica" ha finalizado. No olvide restaurar el cortafuego a su configuración original.
+WS40000010,Compruebe el resultado de la conexión de la “Instalación inalámbrica” 
+WS40000020,La página “WLAN Report” ya ha sido impresa por el dispositivo. Busque la <Connection> en la página y revise la descripción para confirmar el resultado de la conexión.
+WS40000030,Seleccione el resultado en la lista de opciones de más abajo y haga clic en "Siguiente".
+WS40000040,"Connection : OK"
+WS40000050,"Connection : Failed"
+WS40000060,* Esta impresión puede tardar hasta 2 minutos.
+WS41000010,Vuelva a intentar la "Instalación inalámbrica"
+WS41000020,Fallo en la "Instalación inalámbrica" porque no ha podido asociarse a una red inalámbrica. Probablemente la causa sea una configuración incorrecta de seguridad.
+WS41000030,Revise la configuración de seguridad de la red inalámbrica y vuelva a intentar la "Instalación inalámbrica" desde el principio.
+WS43000000,Configuración de la clave de red
+WS43000010,Introduzca la clave de seguridad de red que ha comprobado anteriormente.
+WS43000020,El tipo de autentificación y encriptación de su red inalámbrica se detectarán automáticamente. Usted sólo tiene que escribir la clave de red.
+
+WS44000010,Configuración de certificado
+WS44000020,Configure el certificado de cliente y la verificación de certificado de servidor.
+WS44000030,Nombre (SSID):
+WS44000040,&Certificado de cliente 
+WS44000041,
+WS44000050,&Verificación del certificado del servidor
+WS44000051,No verificar
+WS44000052,Cert. CA
+WS44000053,Cert. CA + ID servidor
+WS44000060,&ID del servidor
+WS45000010,Error de conexión a la red
+WS45000020,Compruebe que tanto la información de SSID/ESSID como de la clave de seguridad de red anteriormente introducida es correcta.
+WS45000030,Esta información era:
+WS45000040,SSID/ESSID: 
+WS45000050,Clave de red: 
+WS45000060,Si esta información es correcta, compruebe también:
+WS45000070,Cualquier otro tipo de seguridad que se haya configurado en el punto de acceso inalámbrico, como el filtro de la dirección MAC.
+WS45000080,Ese dispositivo está suficientemente cerca del punto de acceso inalámbrico
+WS45000090,Si no está seguro de esta información, póngase en contacto con el administrador del sistema, el proveedor de Internet o el fabricante de su punto de acceso inalámbrico.
+WS50000010,Confirmación de la instalación
+WS50000020,Durante la instalación, se detectará automáticamente la configuración inalámbrica de su ordenador. Antes de conectar el dispositivo inalámbrico a una red corporativa, consulte al administrador de la red.
+WS50000030,Comprobado y confirmado
+WS51000010,Detectando la configuración de la red inalámbrica de su ordenador
+WS51000020,Se ha detectado la configuración de la red inalámbrica de su ordenador.
+WS51000030,Nombre de red inalámbrica detectado (nombre del Punto de acceso inalámbrico/Router):
+WS51000040,SSID:
+WS51000050,¿Desea conectarse a la red inalámbrica con esta configuración?
+WS51000060,Sí
+WS51000070,No
+WS52000010,No se ha podido conectar a la red
+WS52000020,El dispositivo no ha podido conectarse con su punto de acceso inalámbrico/router.
+WS52000030,SSID:
+WS52000040,Pruebe a configurarlo manualmente.
+WS98010010,Error de configuración
+WS98010020,Se produjo un error de comunicación/configuración mientras se enviaba la configuración al dispositivo inalámbrico.
+WS98010030,Asegúrese de que el dispositivo inalámbrico está encendido e iniciado e inténtelo de nuevo.
+WS98020010,Atención
+WS98020020,La configuración de red de este equipo no le permite comunicarse con el dispositivo de red inalámbrica.
+WS98020030,Asegúrese de que la conexión Ethernet del dispositivo inalámbrico del ordenador está habilitada, y asegúrese de que las configuraciones de red del ordenador son para el dispositivo que desea usar. Por favor contacte con su administrador de red o refiérase a la Guía del usuario de su ordenador para más información.
+WS98030010,Error de comunicaciones
+WS98030020,Si su dispositivo inalámbrico, se encuentra lejos del punto de acceso de su ordenador, no recibirá una buena señal inalámbrica. Por favor desplace su dispositivo inalámbrico más cerca del punto de acceso.
+WS98030030,Asegúrese de que el dispositivo inalámbrico está encendido e iniciado e inténtelo de nuevo.
+WS98040010,Error al localizar dispositivos
+WS98040020,Asegúrese de que ha configurado correctamente su sistema y el dispositivo inalámbrico de acuerdo con la Guía de configuración rápida.
+WS98040030,Del mismo modo, si su sistema utiliza varios adaptadores de red, asegúrese de que la tarjeta de red inalámbrica apropiada está activada y desactive temporalmente el resto de los adaptadores de red.
+WS98050010,Clave de red no válida
+WS98050020,(Clave WEP ASCII)
+WS98050030,No introdujo correctamente la información de clave WEP.
+WS98050040,WEP de 128(104) bits: "Wirelesscomms"
+WS98050050,Introduzca 5 ó 13 caracteres de texto. Por ejemplo:
+WS98050060,WEP de 64(40) bits: "Hello"
+WS98060010,Clave de red no válida
+WS98060020,(Clave WEP hexadecimal)
+WS98060030,No introdujo correctamente la información de clave WEP.
+WS98060040,Introduzca 10 ó 26 dígitos de datos hexadecimales. Por ejemplo:
+WS98060050,WEP de 64(40) bits: "71f2234aba"
+WS98060060,WEP de 128(104) bits: "71f2234ab56cd709e5412aa3ba"
+WS98070010,Salir de la configuración
+WS98070020,La configuración no ha finalizado.
+WS98070030,Si sale de este programa de configuración, el dispositivo inalámbrico no se habrá configurado.
+WS98070040,Para continuar este programa de configuración, haga clic en "Reanudar".
+WS98070050,Para salir de este programa de configuración, haga clic en "Salir".
+WS98080010,No coincidencia de la clave de red
+WS98080020,Las claves de red que introdujo no coinciden.
+WS98080030,Vuelva a introducir las claves asegurándose de que tanto "Clave de red" como "Confirmar la clave de red" son iguales.
+WS98090010,Inicializando, por favor espere...
+WS98100010,Clave de red no válida
+WS98100020,La frase de contraseña es una cadena ASCII de 8 a 63 caracteres.
+WS98130010,Información
+WS98130020,El asistente no está dispuesto para utilizar la capacidad inalámbrica de este ordenador para configurar su dispositivo inalámbrico. El asistente ahora intentará otro método. Haga clic en "Aceptar" para continuar.
+WS98140010,Contraseña incorrecta
+WS98140020,Las contraseñas no concuerdan.
+WS98140030,Por reescriba las Contraseñas, asegurándose de que la "Contraseña de usuario" y "Confirmar contraseña de usuario" son las mismas.
+WS98150010,Clave de red no válida
+WS98150020,No ha escrito correctamente la clave de red.Escriba 5 u 8-63 caracteres, según su método de seguridad.
+WS98150030,Para más información, consulte la Ayuda.
+
+WS98160010,Error de conexión USB
+WS98160020,Confirme que se ha conectado un cable USB al dispositivo.
+WS98160030,Confirme que el dispositivo está encendido.
+WS99010010,Aceptar
+WS99010020,Cancelar
+WS99010030,&Salir
+WS99010040,< &Atrás
+WS99010050,&Siguiente >
+WS99010060,A&yuda
+WS99010070,Actuali&zar
+WS99010080,Aña&dir
+WS99010090,&Reanudar
+WS99010100,A&vanzada
+WS99010110,&Finalizar
+WS99010130,¿Dónde está mi SSID?
+WS99010140,¿Dónde está mi clave de red?
+WS99010150,Reintentar >
+WS99020100,Sistema abierto
+WS99020110,Clave compartida
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Ninguna
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020500,EAP-TLS
+WS99030100,NINGUNO
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
+W999999999,

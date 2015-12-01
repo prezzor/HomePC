@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Configurazione del certificato</title>
+
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Configurazione del certificato.</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+</td></tr>
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Certificato client</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Selezionare il certificato client per l'autenticazione EAP-TLS. Tenere presente che occorre innanzitutto impostare il Certificato nella pagina "Configura certificato" dalla pagina Web interna (EWS) della periferica in uso. (Quando viene utilizzato un metodo di autenticazione non occorre selezionare il certificato client ad eccezione di EAP-TLS.)
+<br>
+
+
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Verifica del certificato server</b>
+</td></tr>
+<tr><td width="50"></td><td>Selezionare il metodo di verifica del certificato server.(Quando viene utilizzato LEAP non occorre selezionare il metodo di verifica.)<ul>
+<li>
+Nessuna verifica
+<br>
+Il certificato server viene considerato attendibile senza verifica.
+<br><br>
+
+<li>
+Cert. CA
+<br>
+Il certificato server emesso da CA viene verificato dal certificato CA installato in questa periferica.Tenere presente che occorre innanzitutto impostare il Certificato nella pagina "Configura certificato" dalla pagina Web interna (EWS) della periferica in uso.
+<br><br>
+
+<li>
+Cert. CA + ID server
+<br>
+Il certificato server (emesso da CA utilizzando il certificato CA installato nell'apparecchiatura) e il nome comune (ID server) vengono verificati.Tenere presente che occorre innanzitutto impostare il Certificato nella pagina "Configura certificato" dalla pagina Web interna (EWS) della periferica in uso.
+<br><br>
+</ul>
+
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>ID server</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Immettere l'ID server per la verifica del certificato server.L'ID server corrisponde al nome comune del certificato server.
+<br><br>
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Configura certificato</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Se si utilizza un certificato client o un certificato CA, occorre innanzitutto impostare il Certificato nella pagina "Configura certificato" dalla pagina Web interna (EWS) della periferica in uso.
+<br><br>
+</ul>
+
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

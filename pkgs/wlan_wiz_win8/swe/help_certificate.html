@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Konfigurera certifikat</title>
+
+
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="basic.css" type="text/css">
+
+
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<!--top bar-->
+<IFRAME src="top_bar.html" name="top_bar" scrolling="NO" frameborder="0" width="100%" height="60"></IFRAME>
+<!--top bar end-->
+
+<br>
+
+<!--text-->
+<table border="0" cellspacing="0" cellpadding="5" width="580">
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+<span style="font-size: 120%;"><b>Konfigurera certifikat.</b></span>
+</td></tr>
+<tr><td colspan=2 height="10"></td></tr>
+<tr><td colspan=2></td></tr>
+<tr><td width="50"></td><td>
+</td></tr>
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Klientcertifikat</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Välj klientcertifikat för EAP-TLS-verifiering. Observera att du först måste ställa in certifikatet på sidan "Configure Certificate" på den interna webbsidan (EWS) i din enhet. (Du behöver inte välja klientcertifikatet när du använder en verifieringsmetod med undantag för EAP-TLS.)
+<br>
+
+
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Verifiering av servercertifikat</b>
+</td></tr>
+<tr><td width="50"></td><td>Välj verifieringsmetod för servercertifikat.(Du behöver inte välja verifieringsmetod när du använder LEAP.)<ul>
+<li>
+Ingen verifiering
+<br>
+Servercertifikatet är pålitiligt utan verifiering.
+<br><br>
+
+<li>
+CA Cert.
+<br>
+Servercertifikatet från certifieringsorganet verifieras av det CA-certifikat som är installerat i den här enheten.Observera att du först måste ställa in certifikatet på sidan "Configure Certificate" på den interna webbsidan (EWS) för din enhet.
+<br><br>
+
+<li>
+CA Cert. + Server ID
+<br>
+Servercertifikatet (ges ut av certifieringsorganet (CA) med det CA-certifikat som är installerat i den här maskinen) och nätverksnamnet (Server-ID) verifieras. Observera att du först måste ställa in certifikatet på sidan "Configure Certificate" på den interna webbsidan (EWS) för din enhet.
+<br><br>
+</ul>
+
+
+
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Server-ID</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Ange server-ID för verifiering av servercertifikat.Server-ID är servercertifikatets vanliga namn.
+<br><br>
+<tr><td colspan=2 height="30"></td></tr>	
+<tr><td width="50"></td><td>
+<b>Konfigurera certifikat</b>
+</td></tr>
+<tr><td width="50"></td><td>
+Om du använder ett klientcertifikat eller ett CA-certifikat måste du först ställa in certifikatet på sidan "Configure Certificate" på den interna webbsidan (EWS) för din enhet.
+<br><br>
+</ul>
+
+
+</td></tr>
+<tr><td width="50"></td><td>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td width="70"></td><td>
+	<img src="img/key.gif" width="107" height="90" border="0" alt="image">
+	</td></tr></table>
+
+
+</td></tr>
+<tr><td colspan=2 height="10">
+</td></tr></table>
+
+<hr>
+
+<!--Copyright-->
+<IFRAME src="copy.html" name="copyright" align="middle" scrolling="NO" frameborder="0" width="100%" height="40"></IFRAME>
+
+</body>
+</html>

@@ -1,0 +1,268 @@
+WS01000010,Assistant de configuration de la connexion sans fil
+WS01000040,1.03
+WS02010010,Bienvenue
+WS02010020,Bienvenue à l’Assistant de configuration de la connexion sans fil
+WS03010010,Recherche des appareils sans fil ......
+WS03020010,Appareils sans fil disponibles
+WS03020020,Plusieurs appareils sans fil ont été détectés.
+WS03020030,Sélectionnez l’appareil à configurer puis cliquez sur "Suivant".
+WS03020040,Nom du noeud
+WS03020050,Adresse IP
+WS03020060,Adresse MAC
+WS03020070,Nom de l’imprimante
+WS03020080,Emplacement
+WS03020090,Remarque importante :
+WS03020100,Si aucun appareil n’est listé et que vous exécutez un pare-feu personnel, veuillez désactiver le pare-feu et cliquer sur le bouton Actualiser pour relancer la recherche du réseau sans fil.
+WS03020130,Non configurée
+WS04000010,Configuration de l'adresse IP
+WS04000020,Configurez l’adresse IP de l’appareil sans fil.
+WS04000030,&Obtenir une adresse IP automatiquement
+WS04000050,&Définir une adresse IP statique
+WS04000060,Ad&resse IP
+WS04000070,&Masque de sous-réseau
+WS04000080,Pass&erelle
+WS05020010,Nom du réseau sans fil
+WS05020020,Configurez le réseau sans fil auquel l’appareil sera associé.
+WS05020030,N&om (SSID)
+WS05020040,&Il s’agit d’un réseau Ad-hoc, sans point d’accès.
+WS05020060,&Canal
+WS05030010,Recherche des réseaux sans fil disponibles...
+WS05040010,Réseaux sans fil disponibles
+WS05040020,Choisissez le SSID que vous avez vérifié à l'avance.
+WS05040040,Nom (SSID)
+WS05040050,Canal
+WS05040060,Mode sans fil
+WS05040070,Signal
+WS05040080,Point d’accès / Station de base
+WS05040090,Réseau Ad-hoc
+WS05040100,Si le SSID (l'identification de votre point d'accès sans fil) n' apparaît pas dans cette liste, ou s'il est masqué, vous pourrez toujours le configurer en cliquant sur le bouton 'Avancé'.
+WS05040110,802.11b/g (11 Mbps/54 Mbps)
+WS05040120,802.11b (11 Mbps)
+WS05040130,802.11g (54 Mbps)
+WS05040140,802.11b/g/n 
+WS05040150,802.11n
+WS05060010,ATTENTION !
+WS05060020,Ce réseau sans fil n’est pas sécurisé. Il n’utilise pas de dispositif sécurisé d’authentification et de cryptage. 
+WS05060030,Souhaitez-vous continuer la configuration ?
+WS05060040,Nom (SSID) :
+WS06000010,Méthode d’authentification et mode de cryptage
+WS06000020,Configurez la méthode d’authentification et le mode de cryptage.
+WS06000030,&Méthode d’authentification
+WS06000040,Mode de &cryptage
+WS06000050,Clé du &réseau
+WS06000060,C&onfirmez la clé du réseau
+WS06000070,Nom (SSID) :
+WS06000080,Méthode d'authentification &interne
+WS07000010,Confirmation du paramétrage du réseau sans fil
+WS07000020,Cliquez sur "Suivant" pour envoyer les paramètres suivants à l’appareil.
+WS07000040,Appareil cible = 
+WS07000060,Mode de communication
+WS07000070,Infrastructure
+WS07000080,Ad-hoc
+WS07000090,Nom (SSID)
+WS07000100,Lorsque vous cliquez sur "Suivant", la page "WLAN Report" est imprimée par le périphérique. Veuillez consulter cette page pour vérifier le résultat de la connexion.
+WS07000150,Auto
+WS07000190,Adresse IP
+WS07000200,Masque de sous-réseau
+WS07000210,Passerelle
+WS07000220,Canal
+WS07000230,Méthode d’authentification
+WS07000240,Mode de cryptage
+WS07000270,&Modifier l’adresse IP
+WS07000280,Méthode d'authentification interne
+WS08010010,Envoi des paramètres ...... Veuillez patienter...
+WS09000010,N’oubliez pas !
+WS09000020,La configuration sans fil est terminée. Veillez à rétablir les paramètres sans fil d'origine de votre ordinateur, y compris ceux du pare-feu.
+WS09000030,Veuillez s'il vous plaît restaurer les paramètres suivants :
+WS09000040,Mode de communication (Infrastructure / Ad-hoc)
+WS09000050,Canal (1-14) (si applicable)
+WS09000060,Nom du réseau (SSID / ESSID)
+WS09000070,Méthode d’authentification (Open System / Shared Key)
+WS09000080,Mode de cryptage (Aucun / WEP / autre …)
+WS09000090,Clé de cryptage
+WS09000100,Une fois les paramètres de votre ordinateur restaurés, cliquez sur "Suivant" pour continuer.
+WS09000110,&Vérifié et confirmé
+WS09000120,Une fois les paramètres de votre ordinateur restaurés, cliquez sur "Terminer" pour continuer.
+WS21000010,Authentification de l'utilisateur
+WS21000020,Configurez la méthode d’authentification et le mode de cryptage.
+WS21000030,Nom (SSID) :
+WS21000040,Authentification de l'utilisateur
+WS21000050,&Nom d'utilisateur
+WS21000060,&Mot de passe utilisateur
+WS21000070,&Confirmation du mot de passe utilisateur
+WS25000010,Veuillez connecter votre point d’accès à l’appareil à l’aide d’un câble réseau standard et cliquer sur "Suivant".
+WS25000030,Connecter votre produit et le point d'accès
+WS26000010,Veuillez déconnecter le câble réseau reliant votre point d’accès à l’appareil et cliquer sur "Suivant".
+WS26000020,Déconnecter votre produit et le point d'accès
+WS26000030,La configuration sans fil est terminée. Veillez à restaurer les paramètres de votre pare-feu à leur valeur d'origine.
+WS26000040,Veuillez déconnecter le câble réseau reliant votre point d’accès à l’appareil et cliquer sur "Terminer".
+WS27000010,Changement des paramètres sans fil de votre ordinateur
+WS27000020,Pour configurer l'appareil sans fil manuellement à partir de cet ordinateur, vous devez changer temporairement les paramètres sans fil de cet ordinateur.
+WS27000030,Avant de continuer, veuillez s'il vous plait noter les paramètres actuels du réseau sans fil de votre ordinateur
+WS27000040,En particulier, veuillez noter les informations suivantes :
+WS27000050,Mode de communication (Infrastructure / Ad-hoc)
+WS27000060,Canal (1-14) (si applicable)
+WS27000070,Nom du réseau (SSID / ESSID)
+WS27000080,Méthode d’authentification (Open System / Shared Key)
+WS27000090,Mode de cryptage (Aucun / WEP / autre …)
+WS27000100,Clé de cryptage
+WS27000110,Contactez votre administrateur réseau ou référez-vous au guide utilisateur de votre ordinateur pour plus d'information.
+WS27000120,Cliquez sur "Suivant" pour continuer.
+WS28000010,Changement des paramètres sans fil de votre ordinateur
+WS28000020,Pour communiquer avec l'appareil sans fil non configuré, changez les paramètres sans fil de cet ordinateur:
+WS28000030,Mode de communication :
+WS28000040,Canal :
+WS28000050,Nom du réseau (SSID)*:
+WS28000060,Mode de cryptage :
+WS28000070,*Sensible à la casse
+WS28000080,Contactez votre administrateur réseau ou référez-vous au guide utilisateur de votre ordinateur pour plus d'information. Lorsque vous avez configuré les paramètres de réseau sans fil, cliquez sur "Suivant" pour continuer.
+WS28000090,
+WS28000100,Ad-hoc
+WS28000110,11
+WS28000120,SETUP
+WS28000130,Sans
+WS28000140,(si applicable)
+WS28000150,&Vérifié et confirmé
+WS29000010,Changement des paramètres sans fil de votre ordinateur
+WS29000020,Pour communiquer avec l'appareil sans fil configuré, votre ordinateur doit être configuré pour utiliser les mêmes paramètres sans fil.
+WS29000030,Appliquez manuellement les mêmes paramètres sans fil à votre ordinateur que ceux affichés sur la page de configuration du réseau.
+WS29000040,Mode de communication : 
+WS29000050,Canal :
+WS29000060,Nom du réseau (SSID)*:
+WS29000070,Méthode d'authentification :
+WS29000080,Mode de cryptage :
+WS29000090,Clé du réseau :
+WS29000100,*Sensible à la casse
+WS29000110,Contactez votre administrateur réseau ou référez-vous au guide utilisateur de votre ordinateur pour plus d'information.
+WS29000120,La configuration sans fil est terminée. Veillez à restaurer les paramètres de votre pare-feu à leur valeur d'origine. Lorsque vous avez configuré les paramètres de réseau sans fil, cliquez sur "Suivant" pour continuer.
+WS29000130,(si applicable)
+WS29000200,&Vérifié et confirmé
+WS29000210,Contactez votre administrateur réseau ou référez-vous au guide utilisateur de votre ordinateur pour plus d'information.
+WS29000220,La configuration sans fil est terminée. Veillez à restaurer les paramètres de votre pare-feu à leur valeur d'origine.
+WS40000010,Vérification du résultat de la connexion basée sur la configuration sans fil
+WS40000020,La page "WLAN Report" a été imprimée par le périphérique. Localisez la section <Connection> sur la page et analysez la description pour vérifier le résultat de la connexion.
+WS40000030,Sélectionnez le résultat dans la liste de sélections ci-dessous et cliquez sur "Suivant".
+WS40000040,"Connection : OK"
+WS40000050,"Connection : Failed"
+WS40000060,* Cette impression peut prendre jusqu'à 2 minutes.
+WS41000010,Veuillez procéder de nouveau à la configuration sans fil.
+WS41000020,La configuration sans fil a échoué : association avec un réseau sans fil impossible. Des paramètres de sécurité incorrects peuvent en être la cause.
+WS41000030,Veuillez vérifier les paramètres de sécurité du réseau sans fil et procédez de nouveau à la configuration sans fil depuis le début.
+WS43000000,Configuration de la clé du réseau
+WS43000010,Saisissez la clé de sécurité réseau que vous avez précédemment vérifiée.
+WS43000020,Le type de cryptage et d'authentification de votre réseau sans fil sera automatiquement détecté. Il vous suffit de saisir la clé du réseau.
+
+WS44000010,Configuration du certificat
+WS44000020,Configurez le Certificat client et la vérification du Certificat de serveur.
+WS44000030,Nom (SSID) :
+WS44000040,&Certificat client
+WS44000041,
+WS44000050,&Vérification du certificat de serveur
+WS44000051,Aucune vérification
+WS44000052,Cert. AC
+WS44000053,Cert. AC + ID serveur
+WS44000060,&ID serveur
+WS45000010,Échec de la connexion au réseau
+WS45000020,Vérifiez que le SSID/ESSID ou la clé de sécurité réseau que vous avez précédemment saisis sont corrects.
+WS45000030,Ces informations étaient :
+WS45000040,SSID/ESSID :
+WS45000050,Clé du réseau :
+WS45000060,Si ces informations sont correctes, vérifiez également :
+WS45000070,Les autres dispositifs de sécurité qui peuvent être configurés sur le point d'accès sans fil, tel que le filtrage de l'adresse MAC.
+WS45000080,Le périphérique est suffisamment proche du point d’accès sans fil
+WS45000090,Si vous n'êtes pas sûr de ces informations, consultez votre administrateur système, votre fournisseur d'accès Internet ou le fabricant de votre point d'accès sans fil.
+WS50000010,Confirmation de l'installation
+WS50000020,Lors de l'installation, les paramètres sans fil de votre ordinateur sont automatiquement détectés. Avant la connexion du périphérique sans fil à un réseau d'entreprise, veuillez vérifier les paramètres auprès de l'administrateur réseau.
+WS50000030,Vérifié et confirmé
+WS51000010,Détection des paramètres réseau sans fil existants au niveau de votre ordinateur
+WS51000020,Les paramètres réseau sans fil de votre ordinateur ont été détectés.
+WS51000030,Nom du réseau sans fil (nom du routeur/point d'accès sans fil détecté) :
+WS51000040,SSID:
+WS51000050,Souhaitez-vous vous connecter au réseau sans fil à l'aide de ces paramètres ?
+WS51000060,Oui
+WS51000070,Non
+WS52000010,Impossible de se connecter au réseau
+WS52000020,Le périphérique n'a pu se connecter au routeur/point d'accès sans fil.
+WS52000030,SSID:
+WS52000040,Veuillez procéder à la configuration manuellement.
+WS98010010,Erreur de configuration
+WS98010020,Une erreur de communication/configuration s’est produite lors de l’envoi des paramètres vers l’appareil sans fil.
+WS98010030,Vérifiez que l’appareil sans fil est sous tension et initialisé puis réessayez.
+WS98020010,Attention !
+WS98020020,La configuration réseau de cet ordinateur ne vous permet pas de communiquer avec l’appareil de communication sans fil.
+WS98020030,Assurez-vous que la connexion Ethernet et que les paramètres sans fil sont activés et que les paramètres réseau rentrés au niveau de votre ordinateur  sont conformes à ceux de l'appareil que vous voulez utiliser. Contactez votre administrateur réseau ou référez-vous au guide utilisateur de votre ordinateur pour plus d'information.
+WS98030010,Erreur de communication
+WS98030020,Si votre appareil sans fil est trop loin du point d'accès ou de voter ordinateur, il ne recevra pas un bon signal. Rapprochez votre appareil  du point d'accès.
+WS98030030,Vérifiez que l’appareil sans fil est sous tension et initialisé puis réessayez.
+WS98040010,Appareils introuvables
+WS98040020,Veuillez vérifier que vous avez correctement configuré votre ordinateur et l’appareil sans fil conformément aux instructions du Guide d’installation rapide.
+WS98040030,Sinon, si votre ordinateur utilise plusieurs interfaces réseau, veuillez vous assurer que la carte réseau sans fil appropriée est activée sur votre ordinateur puis désactivez temporairement toutes les autres interfaces réseau.
+WS98050010,Clé de réseau non valide
+WS98050020,(Clé WEP ASCII)
+WS98050030,Erreur de saisie des informations de clé WEP.
+WS98050040,WEP 128 (104) bits : "Wirelesscomms"
+WS98050050,Entrez 5 ou 13 caractères texte. Par exemple :
+WS98050060,WEP 64 (40) bits : "Hello"
+WS98060010,Clé de réseau non valide
+WS98060020,(Clé WEP hex.)
+WS98060030,Vous avez fait une erreur en entrant les informations de clé WEP.
+WS98060040,Entrez des données hexadécimales de 10 ou 26 chiffres. Par exemple :
+WS98060050,WEP 64 (40) bits : "71f2234aba"
+WS98060060,WEP 128 (104) bits : "71f2234ab56cd709e5412aa3ba"
+WS98070010,Quitter la configuration
+WS98070020,La configuration n’est pas terminée.
+WS98070030,Si vous quittez ce programme de configuration, l’appareil sans fil ne sera pas configuré.
+WS98070040,Pour poursuivre ce programme de configuration, cliquez sur "Reprendre".
+WS98070050,Pour quitter ce programme de configuration, cliquez sur "Quitter".
+WS98080010,Non concordance des clés du réseau
+WS98080020,Les clés de réseau saisies ne correspondent pas.
+WS98080030,Veuillez retaper les clés en vous assurant que les champs "Clé du réseau" et "Confirmez la clé du réseau" concordent.
+WS98090010,Initialisation, patienter SVP
+WS98100010,Clé de réseau non valide
+WS98100020,La phrase codée est une chaîne ASCII de 8 à 63 caractères.
+WS98130010,Informations
+WS98130020,Cette interface n'est pas capable d'utiliser la configuration sans fil de cet ordinateur pour configurer votre appareil sans fil. L'interface va maintenant essayer une autre méthode. Cliquez sur "OK" pour continuer.
+WS98140010,Mot de passe non valide
+WS98140020,Les mots de passe ne correspondaient pas.
+WS98140030,Veuillez retapez le mot de passe en s'assurant que "Mot de passe" et "Confirmation Mot de passe" soient identiques.
+WS98150010,Clé de réseau non valide
+WS98150020,Vous n'avez pas saisi correctement la clé du réseau.Saisissez 5 caractères ou entre 8 et 63 caractères, selon votre méthode de sécurité.
+WS98150030,Pour plus d'informations, reportez-vous à l'Aide.
+
+WS98160010,Erreur de connexion USB
+WS98160020,Confirmez qu'un câble USB est connecté à votre périphérique.
+WS98160030,Confirmez que votre périphérique est sous tension.
+WS99010010,OK
+WS99010020,Annuler
+WS99010030,&Quitter
+WS99010040,< &Précédent
+WS99010050,&Suivant >
+WS99010060,&Aide
+WS99010070,A&ctualiser
+WS99010080,Aj&outer
+WS99010090,&Reprendre
+WS99010100,A&vancé
+WS99010110,&Terminer
+WS99010130,Où se trouve mon identifiant SSID ?
+WS99010140,Où se trouve ma clé de réseau ?
+WS99010150,Réessayer >
+WS99020100,Open System
+WS99020110,Shared key
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Aucun
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020500,EAP-TLS
+WS99030100,AUCUNE
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
+W999999999,

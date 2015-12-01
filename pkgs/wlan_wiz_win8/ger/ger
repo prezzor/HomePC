@@ -1,0 +1,268 @@
+WS01000010,Wireless Setup-Assistent
+WS01000040,1.03
+WS02010010,Willkommen
+WS02010020,Willkommen beim Wireless Setup-Assistenten.
+WS03010010,Suche nach Wireless-Gerät(en)...
+WS03020010,Verfügbare Wireless-Geräte
+WS03020020,Es wurde mehr als ein Wireless-Gerät gefunden.
+WS03020030,Wählen Sie das Gerät, das Sie konfigurieren wollen, und klicken Sie auf "Weiter".
+WS03020040,Knotenname
+WS03020050,IP-Adresse
+WS03020060,MAC-Adresse
+WS03020070,Druckername
+WS03020080,Standort
+WS03020090,Wichtiger Hinweis:
+WS03020100,Falls keine Geräte gefunden werden und eine Personal Firewall installiert ist: Deaktivieren Sie die Firewall und klicken Sie auf "Aktualisieren", um die Suche erneut zu starten.
+WS03020130,Nicht konfiguriert
+WS04000010,Konfiguration der IP-Adresse
+WS04000020,IP-Adresse des Wireless-Gerätes konfigurieren
+WS04000030,I&P-Adresse automatisch zuweisen
+WS04000050,&Feste IP-Adresse einrichten
+WS04000060,IP-&Adresse
+WS04000070,Subnetz&maske
+WS04000080,&Gateway
+WS05020010,Name des Wireless-Netzwerks
+WS05020020,Geben Sie den Namen des Wireless-Netzwerks ein, mit dem das Gerät verbunden werden soll.
+WS05020030,N&ame (SSID)
+WS05020040,&Dies ist ein Ad-hoc-Netzwerk und es gibt keinen Access Point.
+WS05020060,&Kanal
+WS05030010,Suche nach Wireless-Netzwerken...
+WS05040010,Verfügbare Wireless-Netzwerke
+WS05040020,Wählen Sie die SSID, die Sie zuvor überprüft haben.
+WS05040040,Name (SSID)
+WS05040050,Kanal
+WS05040060,Wireless-Modus
+WS05040070,Signal
+WS05040080,Access Point / Basisstation
+WS05040090,Ad-hoc- Netzwerk
+WS05040100,Wenn die SSID (Identifikation Ihres Wireless Access Points) nicht in dieser Liste erscheint oder wenn sie ausgeblendet ist, können Sie sie eventuell trotzdem durch Klicken auf die Schaltfläche "Erweitert" konfigurieren.
+WS05040110,802.11b/g (11Mbps/54Mbps)
+WS05040120,802.11b (11Mbps)
+WS05040130,802.11g (54Mbps)
+WS05040140,802.11b/g/n 
+WS05040150,802.11n
+WS05060010,ACHTUNG!
+WS05060020,Dieses Wireless-Netzwerk ist nicht abgesichert. Es werden keine sicheren Authentifizierungs- und Verschlüsselungsmethoden eingesetzt.
+WS05060030,Wollen Sie trotzdem fortfahren?
+WS05060040,Name (SSID):
+WS06000010,Authentifizierungs- und Verschlüsselungsmethoden
+WS06000020,Geben Sie die gewünschte Authentifzierungsmethode und Verschlüsselungsart an.
+WS06000030,Authentifizierungs&methode
+WS06000040,&Verschlüsselungsmodus
+WS06000050,Netzwerk&schlüssel
+WS06000060,Netzwerkschlüssel &bestätigen
+WS06000070,Name (SSID):
+WS06000080,&Innere Authentifizierungsmethode
+WS07000010,Wireless-Netzwerkeinstellungen (WLAN) bestätigen
+WS07000020,Klicken Sie auf "Weiter", um die folgenden Einstellungen zum Gerät zu senden.
+WS07000040,Empfängergerät =
+WS07000060,Kommunikationsmodus
+WS07000070,Infrastruktur
+WS07000080,Ad-hoc
+WS07000090,Name (SSID)
+WS07000100,Nach Klicken auf "Weiter" wird die "WLAN Report"-Seite vom Gerät ausgedruckt. Überprüfen Sie darin, ob die Verbindung erfolgreich hergestellt wurde.
+WS07000150,Auto
+WS07000190,IP-Adresse
+WS07000200,Subnetzmaske
+WS07000210,Gateway
+WS07000220,Kanal
+WS07000230,Authentifizierungsmethode
+WS07000240,Verschlüsselungsmodus
+WS07000270,IP-&Adresse ändern
+WS07000280,Innere Authentifizierungsmethode
+WS08010010,Einstellungen werden gesendet... Bitte warten.
+WS09000010,Bitte beachten:
+WS09000020,Das “Wireless-Setup” ist nun abgeschlossen. Setzen Sie die Wireless-Einstellungen Ihres Computers, einschließlich der Firewall, wieder auf die Originaleinstellungen zurück.
+WS09000030,Die folgenden Einstellungen müssen zurückgesetzt werden:
+WS09000040,Kommunikationsmodus (Infrastruktur / Ad-hoc)
+WS09000050,Kanal (1-14) (wenn anwendbar)
+WS09000060,Netzwerkname (SSID / ESSID)
+WS09000070,Authentifizierungsmethode (Open System / Shared Key)
+WS09000080,Verschlüsselungsmodus (Keiner / WEP / Andere...)
+WS09000090,Key
+WS09000100,Nachdem Sie die Einstellungen zurückgesetzt haben, klicken Sie auf "Weiter", um fortzufahren.
+WS09000110,&Überprüft und bestätigt
+WS09000120,Nachdem Sie die Einstellungen zurückgesetzt haben, klicken Sie auf "Fertig stellen", um fortzufahren.
+WS21000010,Benutzerauthentifizierung
+WS21000020,Geben Sie die gewünschte Authentifzierungsmethode und Verschlüsselungsart an.
+WS21000030,Name (SSID):
+WS21000040,Benutzerauthentifizierung
+WS21000050,Benutzer-&ID
+WS21000060,Benutzer&kennwort
+WS21000070,Benutzerkennwort &bestätigen
+WS25000010,Schließen Sie das Gerät über ein Standard-Netzwerkkabel an den Access Point an und klicken Sie auf "Weiter".
+WS25000030,Anschluss Ihres Gerätes und Access Points
+WS26000010,Ziehen Sie das Netzwerkkabel vom Access Point und Gerät ab und klicken Sie auf "Weiter".
+WS26000020,Anschluss Ihres Gerätes und Access Points lösen
+WS26000030,“Wireless-Setup” ist nun abgeschlossen. Setzen Sie die Firewall-Einstellungen wieder in ihren Originalzustand zurück.
+WS26000040,Ziehen Sie das Netzwerkkabel vom Access Point und Gerät ab und klicken Sie auf "Fertig stellen".
+WS27000010,Wireless-Einstellungen des Computers ändern
+WS27000020,Um das Wireless-Gerät von diesem Computer aus manuell zu konfigurieren, müssen Sie vorübergehend die Wireless-Einstellungen dieses Computers ändern.
+WS27000030,Bevor Sie die Einstellungen ändern, notieren Sie sich bitte die aktuellen Wireless-Netzwerkeinstellungen. 
+WS27000040,Bitte beachten Sie im Besonderen:
+WS27000050,Kommunikationsmodus (Infrastruktur / Ad-hoc)
+WS27000060,Kanal (1-14) (wenn anwendbar)
+WS27000070,Netzwerkname (SSID / ESSID)
+WS27000080,Authentifizierungsmethode (Open System / Shared Key)
+WS27000090,Verschlüsselungsmodus (Keiner / WEP / Andere...)
+WS27000100,Key
+WS27000110,Bitte wenden Sie sich an Ihren Netzwerkadministrator oder lesen Sie das Handbuch des Computers, um weitere Informationen zu erhalten.
+WS27000120,Klicken Sie auf "Weiter", um fortzufahren.
+WS28000010,Wireless-Einstellungen des Computers ändern
+WS28000020,Um mit dem nicht konfigurierten Wireless-Gerät zu kommunizieren, ändern Sie die Wireless-Einstellung dieses Computers wie folgt:
+WS28000030,Kommunikationsmodus:
+WS28000040,Kanal:
+WS28000050,Netzwerkname (SSID):
+WS28000060,Verschlüsselungsmodus:
+WS28000070,*Groß-/Kleinschreibung beachten
+WS28000080,Bitte wenden Sie sich an Ihren Netzwerkadministrator oder lesen Sie das Handbuch des Computers, um weitere Informationen zu erhalten. Nachdem Sie die Wireless-Netzwerkeinstellungen konfiguriert haben, klicken Sie auf "Weiter".
+WS28000090,
+WS28000100,Ad-hoc
+WS28000110,11
+WS28000120,SETUP
+WS28000130,Keiner
+WS28000140,(wenn anwendbar)
+WS28000150,&Überprüft und bestätigt
+WS29000010,Wireless-Einstellungen des Computers ändern
+WS29000020,Um mit dem konfigurierten Wireless-Gerät zu kommunizieren, muss der Computer so konfiguriert werden, dass er dieselben Wireless-Einstellungen wie das Gerät verwendet.
+WS29000030,Stellen Sie manuell dieselben Wireless-Einstellungen ein, die auf der Netzwerkkonfigurationsseite Ihres Computer angegeben sind.
+WS29000040,Kommunikationsmodus:
+WS29000050,Kanal:
+WS29000060,Netzwerkname (SSID):
+WS29000070,Authentifizierungsmethode:
+WS29000080,Verschlüsselungsmodus:
+WS29000090,Netzwerkschlüssel:
+WS29000100,*Groß-/Kleinschreibung beachten
+WS29000110,Bitte wenden Sie sich an Ihren Netzwerkadministrator oder lesen Sie das Handbuch des Computers, um weitere Informationen zu erhalten.
+WS29000120,“Wireless-Setup” ist nun abgeschlossen. Setzen Sie die Firewall-Einstellungen wieder in ihren Originalzustand zurück. Nachdem Sie die Wireless-Netzwerkeinstellungen konfiguriert haben, klicken Sie auf "Weiter".
+WS29000130,(wenn anwendbar)
+WS29000200,&Überprüft und bestätigt
+WS29000210,Bitte wenden Sie sich an Ihren Netzwerkadministrator oder lesen Sie das Handbuch des Computers, um weitere Informationen zu erhalten.
+WS29000220,“Wireless-Setup” ist nun abgeschlossen. Setzen Sie die Firewall-Einstellungen wieder in ihren Originalzustand zurück.
+WS40000010,Überprüfen Sie das Ergebnis des “Wireless-Setup” 
+WS40000020,Nun wurde die “WLAN Report”-Seite vom Gerät ausgedruckt. Suchen Sie auf dieser Seite <Connection> und lesen Sie die Beschreibung, um das Ergebnis des Verbindungsaufbaus zu ermitteln.
+WS40000030,Wählen Sie dieses Ergebnis in der Liste unten aus und klicken Sie dann auf "Weiter".
+WS40000040,"Connection : OK"
+WS40000050,"Connection : Failed"
+WS40000060,* Dieser Ausdruck kann bis zu 2 Minuten dauern.
+WS41000010,Führen Sie das "Wireless-Setup" noch einmal aus
+WS41000020,Das "Wireless-Setup" ist fehlgeschlagen, weil die Verbindung zum Wireless-Netzwerk nicht hergestellt werden konnte. Wahrscheinlich sind nicht die richtigen Sicherheitseinstellungen vorgenommen worden.
+WS41000030,Bitte überprüfen Sie die Sicherheitseinstellungen des Wireless-Netzwerkes und beginnen Sie mit dem "Wireless-Setup" erneut.
+WS43000000,Konfiguration des Netzwerkschlüssels
+WS43000010,Bitte geben Sie den zuvor ermittelten Netzwerksicherheitsschlüssel ein.
+WS43000020,Die in Ihrem Wireless-Netzwerk verwendete Authentifizierungs- und Verschlüsselungsmethode wird automatisch erkannt. Sie brauchen nur den Netzwerkschlüssel einzugeben.
+
+WS44000010,Zertifikatkonfiguration
+WS44000020,Konfigurieren Sie das Client-Zertifikat und die Server-Zertifikat-Verifizierung.
+WS44000030,Name (SSID):
+WS44000040,&Client-Zertifikat
+WS44000041,
+WS44000050,&Server-Zertifikat-Verifizierung
+WS44000051,Keine Verifizierung
+WS44000052,CA-Zert.
+WS44000053,CA-Zert. + Server-ID
+WS44000060,Server-&ID
+WS45000010,Verbindung zum Netzwerk fehlgeschlagen
+WS45000020,Bitte überprüfen Sie, ob die SSID/ESSID bzw. der Netzwerksicherheitsschlüssel zuvor richtig eingegeben wurde.
+WS45000030,Eingegeben wurde:
+WS45000040,SSID/ESSID: 
+WS45000050,Netzwerkschlüssel: 
+WS45000060,Wenn diese Informationen richtig sind, prüfen Sie auch:
+WS45000070,Alle anderen Sicherheitseinstellungen, die eventuell am Wireless Access Point konfiguriert sind, wie zum Beispiel die MAC-Adressenfilterung.
+WS45000080,Das Gerät befindet sich nahe genug am Wireless Access Point
+WS45000090,Falls Unsicherheiten in Bezug auf diese Informationen bestehen, wenden Sie sich an Ihren Systemadministrator, Internet-Provider oder den Hersteller Ihres Wireless Access Points.
+WS50000010,Installation bestätigen
+WS50000020,Während der Installation werden die Wireless-Einstellungen Ihres Computers automatisch ermittelt. Bevor Sie ein Wireless-Gerät mit einem Firmennetzwerk verbinden, sprechen Sie sich mit Ihrem Netzwerkadministrator ab.
+WS50000030,Geprüft und bestätigt
+WS51000010,Ermitteln der aktuellen Wireless-Netzwerkeinstellungen Ihres Computers
+WS51000020,Die Wireless-Netzwerkeinstellungen Ihres Computers wurden ermittelt.
+WS51000030,Der ermittelte Wireless-Netzwerkname (Name des Wireless Access Points/Routers):
+WS51000040,SSID:
+WS51000050,Möchten Sie eine Verbindung mit dem Wireless-Netzwerk mit diesen Einstellungen herstellen?
+WS51000060,Ja
+WS51000070,Nein
+WS52000010,Verbindung zum Netzwerk fehlgeschlagen
+WS52000020,Das Gerät konnte keine Verbindung zu Ihrem Wireless Access Point/Router herstellen. 
+WS52000030,SSID:
+WS52000040,Versuchen Sie, das Setup manuell durchzuführen.
+WS98010010,Konfigurationsfehler
+WS98010020,Beim Senden der Einstellungen zum Wireless-Gerät ist ein Kommunikations-/Konfigurationsfehler aufgetreten.
+WS98010030,Prüfen Sie, ob das Wireless-Gerät (Drucker/Multifunktionsgerät) eingeschaltet und initialisiert ist, und versuchen Sie es dann erneut.
+WS98020010,Achtung!
+WS98020020,Die Netzwerkeinstellungen dieses Computers lassen die Kommunikation mit dem Wireless-Gerät nicht zu.
+WS98020030,Vergewissern Sie sich dass die Ethernet-Verbindung bzw. die Wireless-Einstellungen des Computers aktiviert sind und dass am Computer dieselben Netzwerkeinstellungen gesetzt sind, wie am Gerät, das verwendet werden soll. Bitte wenden Sie sich an Ihren Netzwerkadministrator oder lesen Sie das Handbuch des Computers, um weitere Informationen zu erhalten.
+WS98030010,Kommunikationsfehler
+WS98030020,Falls das Wireless-Gerät zu weit vom  Access Point entfernt ist, erhält es keine klaren Wireless-Signale. Stellen Sie das Gerät dichter an den Access Point.
+WS98030030,Prüfen Sie, ob das Wireless-Gerät (Drucker/Multifunktionsgerät) eingeschaltet und initialisiert ist, und versuchen Sie es dann erneut.
+WS98040010,Gerät nicht gefunden
+WS98040020,Vergewissern Sie sich, dass Sie Ihren Computer und das Wireless-Gerät (Drucker/Multifunktionsgerät) wie in der Installationsanleitung beschrieben konfiguriert haben.
+WS98040030,Wenn Ihr Computer über mehrere Netzwerkanschlüsse verfügt, muss die richtige Netzwerkkarte aktiviert und alle anderen vorübergehend deaktiviert werden.
+WS98050010,Ungültiger Netzwerkschlüssel
+WS98050020,(ASCII WEP Key)
+WS98050030,Die WEP Key Information wurde nicht korrekt eingegeben.
+WS98050040,128(104) Bit WEP : "Wirelesscomms"
+WS98050050,Geben Sie ein 5 bzw. 13 Buchstaben langes Kennwort ein. Zum Beispiel:
+WS98050060,64(40) Bit WEP   : "Hallo"
+WS98060010,Ungültiger Netzwerkschlüssel
+WS98060020,(Hex. WEP Key)
+WS98060030,Die WEP Key Information wurde nicht korrekt eingegeben.
+WS98060040,Geben Sie 10 bzw. 26 Zeichen Hexadezimaldaten ein. Zum Beispiel:
+WS98060050,64(40) Bit WEP   : "71f2234aba"
+WS98060060,128(104) Bit WEP : "71f2234ab56cd709e5412aa3ba"
+WS98070010,Setup beenden
+WS98070020,Die Einrichtung ist nicht abgeschlossen.
+WS98070030,Wenn Sie das Setup-Programm beenden, wird das Wireless-Gerät nicht konfiguriert.
+WS98070040,Um mit dem Setup-Programm fortzufahren, klicken Sie auf "Fortsetzen".
+WS98070050,Um das Setup-Programm zu verlassen, klicken Sie auf "Beenden".
+WS98080010,Falscher Netzwerkschlüssel
+WS98080020,Die eingegebenen Netzwerkschlüssel stimmten nicht überein.
+WS98080030,Geben Sie die Schlüssel erneut ein und achten Sie dabei darauf, dass Sie denselben Code zur Bestätigung eingeben.
+WS98090010,Initialisierung, bitte warten ...
+WS98100010,Ungültiger Netzwerk-Key
+WS98100020,Die Passphrase ist eine ASCII-Folge von 8-63 Zeichen.
+WS98130010,Hinweis
+WS98130020,Der Assistent kann die Wireless-Funktionen des Computers nicht zur Konfiguration des Wireless-Gerätes verwenden. Der Assistent versucht es nun mit einer anderen Methode. Klicken Sie auf "OK", um fortzufahren.
+WS98140010,Ungültiges Passwort
+WS98140020,Kennwörter stimmten nicht überein.
+WS98140030,Bitte geben Sie die Kennwörter erneut ein und achten Sie darauf, dass die Eingaben in "Benutzerkennwort" und "Kennwort bestätigen" identisch sind.
+WS98150010,Ungültiger Netzwerk-Key
+WS98150020,Der Netzwerkschlüssel wurde nicht richtig eingegeben.Geben Sie 5 oder 8 - 63 Zeichen ein, je nach verwendeter Sicherheitsmethode.
+WS98150030,Weitere Informationen dazu finden Sie in der Hilfe.
+
+WS98160010,USB-Verbindungsfehler
+WS98160020,Vergewissern Sie sich, dass ein USB-Kabel an Ihr Gerät angeschlossen ist.
+WS98160030,Vergewissern Sie sich, dass Ihr Gerät eingeschaltet ist.
+WS99010010,OK
+WS99010020,Abbrechen
+WS99010030,&Beenden
+WS99010040,< &Zurück
+WS99010050,&Weiter >
+WS99010060,&Hilfe
+WS99010070,&Aktualisieren
+WS99010080,Hi&nzu...
+WS99010090,&Fortsetzen
+WS99010100,&Erweitert
+WS99010110,&Fertig stellen
+WS99010130,Wo finde ich meine SSID?
+WS99010140,Wo finde ich meinen Netzwerkschlüssel?
+WS99010150,Wiederholen >
+WS99020100,Open System
+WS99020110,Shared Key
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Keiner
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020500,EAP-TLS
+WS99030100,KEINE
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
+W999999999,

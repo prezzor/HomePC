@@ -1,0 +1,268 @@
+WS01000010,Ohjattu langattoman laitteen asennus
+WS01000040,1.03
+WS02010010,Tervetuloa
+WS02010020,Tervetuloa Ohjattuun langattoman laitteen asennukseen
+WS03010010,Etsitään langattomia laitteita......
+WS03020010,Käytettävissä olevat langattomat laitteet
+WS03020020,Useampi kuin yksi langaton laite löytyi.
+WS03020030,Valitse laite, jonka haluat asentaa, ja napsauta ”Seuraava”.
+WS03020040,Solmun nimi
+WS03020050,IP-osoite
+WS03020060,MAC-osoite
+WS03020070,Kirjoittimen nimi
+WS03020080,Sijainti
+WS03020090,Tärkeä huomautus:
+WS03020100,Jos langattomia laitteita ei löydy ja tietokoneessa on henkilökohtainen palomuuri, poista palomuuri käytöstä ja etsi langatonta verkkoa uudelleen napsauttamalla Päivitä-painiketta.
+WS03020130,Määrittelemätön
+WS04000010,IP-osoitteen määritys
+WS04000020,Määritä langattoman laitteen IP-osoite
+WS04000030,Hanki &IP-osoite automaattisesti.
+WS04000050,&Aseta staattinen IP-osoite
+WS04000060,IP-&osoite
+WS04000070,Aliverkon &peite
+WS04000080,&Yhdyskäytävä
+WS05020010,Langattoman verkon nimi
+WS05020020,Anna langattoman verkon nimi, johon laite liitetään.
+WS05020030,&Nimi (SSID)
+WS05020040,&Tämä on Ad-hoc-verkko. Siinä ei ole tukiasemaa.
+WS05020060,&Kanava
+WS05030010,Etsitään langattomia verkkoja...
+WS05040010,Käytettävissä olevat langattomat verkot
+WS05040020,Valitse etukäteen tarkastettu SSID.
+WS05040040,Nimi (SSID)
+WS05040050,Kanava
+WS05040060,Langaton tila
+WS05040070,Signaali
+WS05040080,Tukiasema
+WS05040090,Ad-hoc-verkko
+WS05040100,Jos SSID (langattoman tukiaseman tunniste) ei näy tässä luettelossa tai se on piilotettu, se voidaan ehkä silti määrittää napsauttamalla ”Lisäasetukset”-painiketta.
+WS05040110,802.11b/g (11 Mb/s / 54Mb/s)
+WS05040120,802.11b (11 Mb/s)
+WS05040130,802.11g (54 Mb/s)
+WS05040140,802.11b/g/n 
+WS05040150,802.11n
+WS05060010,HUOMIO!
+WS05060020,Tämä langaton verkko ei ole suojattu. Siinä ei käytetä suojattua todentamista tai salausta. 
+WS05060030,Haluatko jatkaa asennusta?
+WS05060040,Nimi (SSID):
+WS06000010,Todentamismenetelmä ja salaustila
+WS06000020,Määritä todentamismenetelmä ja salaustila.
+WS06000030,Todentamis&menetelmä
+WS06000040,S&alaustila
+WS06000050,Ver&kkoavain
+WS06000060,&Vahvista verkkoavain
+WS06000070,Nimi (SSID):
+WS06000080,&Sisäinen todennusmenetelmä
+WS07000010,Langattoman verkon asetusten vahvistus
+WS07000020,Lähetä seuraavat asetukset laitteelle napsauttamalla ”Seuraava”
+WS07000040,Kohdelaite = 
+WS07000060,Yhteystila
+WS07000070,Infrastruktuuri
+WS07000080,Ad-hoc
+WS07000090,Nimi (SSID)
+WS07000100,Kun olet napsauttanut ”Seuraava”, laite tulostaa ”WLAN Report” -sivun. Tarkista sivu varmistuaksesi yhteyden toimimisesta.
+WS07000150,Automaattinen
+WS07000190,&IP-osoite
+WS07000200,Aliverkon peite
+WS07000210,Yhdyskäytävä
+WS07000220,Kanava
+WS07000230,Todentamismenetelmä
+WS07000240,Salaustila
+WS07000270,&Muuta IP-osoite
+WS07000280,Sisäinen todennusmenetelmä
+WS08010010,Lähetetään asetuksia ...... Odota…
+WS09000010,Muista!
+WS09000020,”Langattoman verkon asetukset” ovat nyt valmiit. Muista palauttaa tietokoneen alkuperäiset langattoman verkon asetukset palomuuriasetukset mukaan lukien.
+WS09000030,Seuraavat asetukset on palautettava:
+WS09000040,Yhteystapa (Infrastruktuuri/Ad-hoc)
+WS09000050,Kanava (1-14) (jos käytössä)
+WS09000060,Verkon nimi (SSID/ESSID)
+WS09000070,Todentamismenetelmä (Avoin järjestelmä / Jaettu avain / Muu…)
+WS09000080,Salaustila (Ei / WEP / Muu…)
+WS09000090,Salausavain
+WS09000100,Kun tietokoneen asetukset on palautettu, jatka napsauttamalla ”Seuraava”
+WS09000110,&Tarkistettu ja vahvistettu
+WS09000120,Kun tietokoneen asetukset on palautettu, jatka napsauttamalla ”Valmis”
+WS21000010,Käyttäjätodennus
+WS21000020,Määritä todentamismenetelmä ja salaustila.
+WS21000030,Nimi (SSID):
+WS21000040,Käyttäjätodennus
+WS21000050,&Käyttäjänimi
+WS21000060,S&alasana
+WS21000070,&Vahvista käyttäjän salasana
+WS25000010,Kytke tukiasema laitteeseen tavallisella verkkokaapelilla ja napsauta ”Seuraava”.
+WS25000030,Laitteen kytkentä tukiasemaan
+WS26000010,Irrota tukiaseman ja laitteen välinen verkkokaapeli ja napsauta ”Seuraava”.
+WS26000020,Laitteen irrotus tukiasemasta
+WS26000030,”Langattoman verkon asetukset” ovat nyt valmiit. Muista palauttaa tietokoneesi palomuurin alkuperäiset asetukset.
+WS26000040,Irrota tukiaseman ja laitteen välinen verkkokaapeli ja napsauta ”Valmis”.
+WS27000010,Tietokoneen langattoman verkon asetusten muuttaminen
+WS27000020,Jos haluat määrittää langattoman laitteen asetuksia manuaalisesti tästä tietokoneesta käsin, sinun on muutettava tämän tietokoneen langattoman verkon asetuksia tilapäisesti.
+WS27000030,Ennen kuin jatkat, kirjoita muistiin nykyiset langattoman verkon asetukset.
+WS27000040,Huomaa erityisesti seuraavat:
+WS27000050,Yhteystapa (Infrastruktuuri/Ad-hoc)
+WS27000060,Kanava (1-14) (jos käytössä)
+WS27000070,Verkon nimi (SSID/ESSID)
+WS27000080,Todentamismenetelmä (Avoin järjestelmä / Muu…)
+WS27000090,Salaustila (Ei / WEP / Muu…)
+WS27000100,Salausavain
+WS27000110,Lisätietoja saa verkonvalvojalta ja tietokoneen käyttöoppaasta.
+WS27000120,Jatka napsauttamalla ”Seuraava”.
+WS28000010,Tietokoneen langattoman verkon asetusten muuttaminen
+WS28000020,Jotta tietokone voisi kommunikoida määrittämättömän langattoman laitteen kanssa, tämän tietokoneen langattoman verkon asetukset on muutettava seuraaviksi:
+WS28000030,Yhteystapa:
+WS28000040,Kanava:
+WS28000050,Verkon nimi (SSID)*:
+WS28000060,Salaustila:
+WS28000070,* Iso ja pieni kirjain ovat eri merkkejä
+WS28000080,Lisätietoja saa verkonvalvojalta ja tietokoneen käyttöoppaasta.
+WS28000090,Kun olet määrittänyt langattoman verkon asetukset, jatka napsauttamalla ”Seuraava”
+WS28000100,Ad-hoc
+WS28000110,11
+WS28000120,SETUP
+WS28000130,Ei
+WS28000140,(jos käytössä)
+WS28000150,&Tarkistettu ja vahvistettu
+WS29000010,Tietokoneen langattoman verkon asetusten muuttaminen
+WS29000020,Jotta tämä tietokone voisi kommunikoida määritetyn langattoman laitteen kanssa, tietokone on määritettävä käyttämään samoja langattoman verkon asetuksia.
+WS29000030,Anna manuaalisesti samat langattoman verkon asetukset, jotka näkyvät tietokoneesi Verkkomääritykset-sivulla.
+WS29000040,Yhteystapa:
+WS29000050,Kanava:
+WS29000060,Verkon nimi (SSID)*:
+WS29000070,Todentamismenetelmä:
+WS29000080,Salaustila:
+WS29000090,Verkkoavain:
+WS29000100,* Iso ja pieni kirjain ovat eri merkkejä
+WS29000110,Lisätietoja saa verkonvalvojalta ja tietokoneen käyttöoppaasta.
+WS29000120,”Langattoman verkon asetukset” ovat nyt valmiit. Muista palauttaa tietokoneesi palomuurin alkuperäiset asetukset. Kun olet määrittänyt langattoman verkon asetukset, jatka napsauttamalla ”Seuraava”
+WS29000130,(jos käytössä)
+WS29000200,&Tarkistettu ja vahvistettu
+WS29000210,Lisätietoja saa verkonvalvojalta ja tietokoneen käyttöoppaasta.
+WS29000220,”Langattoman verkon asetukset” ovat nyt valmiit. Muista palauttaa tietokoneesi palomuurin alkuperäiset asetukset.
+WS40000010,Tarkista kohdan ”Langattoman verkon asetukset” yhteyden toiminta
+WS40000020,Laite on tulostanut ”WLAN Report” -sivun. Paikanna sivulta kohta <Connection> ja tarkista yhteyden tila siinä annettujen tietojen avulla.
+WS40000030,Valitse tulos alla olevista vaihtoehdoista ja napsauta ”Seuraava”.
+WS40000040,"Connection : OK"
+WS40000050,"Connection : Failed"
+WS40000060,* Tulostus voi kestää enint. 2 minuuttia.
+WS41000010,Suorita ”Langattoman verkon asennus” uudelleen
+WS41000020,”Langattoman verkon asennus” epäonnistui, sillä se ei voinut liittyä langattomaan verkkoon. Tämä johtuu todennäköisesti virheellisistä suojausasetuksista.
+WS41000030,Tarkista langattoman verkon suojausasetukset ja suorita ”Langattoman verkon asennus” uudelleen alusta alkaen.
+WS43000000,Verkkoavaimen määritys
+WS43000010,Anna aiemmin tarkistamasi verkon salausavain.
+WS43000020,Verkon todennus- ja salaustyyppi tunnistetaan automaattisesti, eikä käyttäjän tarvitse tehdä muuta kuin kirjoittaa verkkoavain.
+
+WS44000010,Sertifikaatin määritys
+WS44000020,Määritä asiakassertifikaatin ja palvelinsertifikaatin tarkistus
+WS44000030,Nimi (SSID):
+WS44000040,&Asiakasvarmenne
+WS44000041,
+WS44000050,&Palvelimen varmenteen vahvistaminen
+WS44000051,Ei vahvistusta
+WS44000052,Myöntäjän varmenne
+WS44000053,Myöntäjän varmenne + palvelimen tunnus
+WS44000060,Palvelimen &tunnus
+WS45000010,Yhteyden muodostus verkkoon epäonnistui.
+WS45000020,Tarkista, että aiemmin antamasi SSID-/ESSID-nimi tai verkon salausavain on oikein.
+WS45000030,Nämä tiedot olivat:
+WS45000040,SSID/ESSID: 
+WS45000050,Verkkoavain:
+WS45000060,Jos nämä tiedot ovat oikein, tarkista myös:
+WS45000070,Muut mahdolliset salaukset, joita on voitu määrittää langattomaan tukiasemaan, kuten MAC-osoitesuodatus.
+WS45000080,Laite on riittävän lähellä langatonta tukiasemaa.
+WS45000090,Jos et ole varma, ovatko tiedot oikein, ota yhteys järjestelmävalvojaan, Internet-palveluntarjoajaan tai langattoman tukiaseman valmistajaan.
+WS50000010,Asennuksen vahvistus
+WS50000020,Tietokoneen langattoman verkon asetukset tunnistetaan automaattisesti asennuksen aikana. Pyydä vahvistus verkonvalvojalta ennen langattoman laitteen liittämistä yritysverkkoon. 
+WS50000030,Tarkistettu ja vahvistettu
+WS51000010,Tietokoneen nykyisten langattoman verkon asetusten tunnistus
+WS51000020,Tietokoneen langattoman verkon asetukset on tunnistettu.
+WS51000030,Tunnistettu langattoman verkon nimi (langattoman tukiaseman/reitittimen nimi):
+WS51000040,SSID:
+WS51000050,Haluatko muodostaa yhteyden langattomaan verkkoon käyttämällä näitä asetuksia?
+WS51000060,Kyllä
+WS51000070,Ei
+WS52000010,Yhteyden muodostaminen verkkoon epäonnistui
+WS52000020,Laite ei saanut yhteyttä langattomaan tukiasemaan/reitittimeen.
+WS52000030,SSID:
+WS52000040,Koeta määrittää asetukset manuaalisesti.
+WS98010010,Määritysvirhe
+WS98010020,Asetusten lähetyksessä langattomaan laitteeseen tapahtui tietoliikenne-/määritysvirhe.
+WS98010030,Varmista, että langaton laite on kytketty sähköverkkoon ja että se on käynnistetty. Yritä sitten uudelleen.
+WS98020010,Huomio
+WS98020020,Tämän tietokoneen verkkoasetukset estävät kommunikoinnin langattoman verkkolaitteen kanssa.
+WS98020030,Varmista, että tietokoneesi Ethernet-yhteys tai langattoman asetukset ovat käytössä ja varmista, että tietokoneesi verkkoasetukset ovat samat kuin siinä laitteessa, jota haluat käyttää. Jos haluat lisää tietoa, käänny verkonvalvojan puoleen tai lue tietokoneesi ohjekirjaa.
+WS98030010,Yhteysvirhe
+WS98030020,Jos langaton laite on liian kaukana tukiasemasta, se ei saa hyvää langatonta signaalia. Siirrä laitteesi lähemmäksi tukiasemaa.
+WS98030030,Varmista, että langaton laite on kytketty sähköverkkoon ja että se on käynnistetty. Yritä sitten uudelleen.
+WS98040010,Virhe laitteita etsiessä
+WS98040020,Varmista, että olet määrittänyt tietokoneen ja langattoman laitteen oikein pikaoppaan mukaisesti.
+WS98040030,Jos tietokone käyttää useita verkkoliittymiä, voit myös tarkistaa, että tietokoneen oikea langaton verkkokortti on otettu käyttöön, ja poistaa muut verkkoliittymät käytöstä tilapäisesti.
+WS98050010,Verkkoavain ei kelpaa
+WS98050020,(ASCII WEP-avain)
+WS98050030,WEP-avaintietoja ei annettu oikein.
+WS98050040,128(104)-bittinen WEP : ”Wirelesscomms”
+WS98050050,Anna 5 tai 13 tekstimerkkiä. Esimerkki:
+WS98050060,64(40)-bittinen WEP   : ”Hello”
+WS98060010,Verkkoavain ei kelpaa
+WS98060020,(Heks. WEP-avain)
+WS98060030,WEP-avaintietoja ei annettu oikein.
+WS98060040,Anna 10 tai 26 numeroa heksadesimaalitietoa. Esimerkki:
+WS98060050,64(40)-bittinen WEP   : ”71f2234aba”
+WS98060060,128(104)-bittinen WEP : ”71f2234ab56cd709e5412aa3ba”
+WS98070010,Lopeta asennus
+WS98070020,Asennus ei ole valmis.
+WS98070030,Jos lopetat tämän asennusohjelman, langatonta laitetta ei ole määritetty.
+WS98070040,Jos haluat jatkaa asennusohjelmaa, napsauta ”Jatka”.
+WS98070050,Jos haluat lopettaa asennusohjelman, napsauta ”Lopeta”.
+WS98080010,Verkkoavaimet yhteensopimattomia
+WS98080020,Annetut verkkoavaimet eivät vastaa toisiaan.
+WS98080030,Anna verkkoavaimet uudelleen ja varmista, että ”Verkkoavain” ja ”Vahvista verkkoavain” ovat samat.
+WS98090010,Alustaa, odota hetki…
+WS98100010,Verkkoavain ei kelpaa
+WS98100020,Salalause on 8–63 merkin pituinen ASCII-merkkijono.
+WS98130010,Tietoja
+WS98130020,Tämä ohjattu toiminto ei pysty käyttämään tämän tietokoneen langattoman kykyjä langattoman laitteen määrittämiseen. Ohjattu toiminto yrittää nyt käyttää toista menetelmää. Napsauta "OK" jatkaaksesi.
+WS98140010,Salasana ei kelpaa
+WS98140020,Salasanat eivät vastaa toisiaan.
+WS98140030,Kirjoita salasana uudelleen varmistaen, että "Käyttäjän salasana" ja "Vahvista käyttäjän salasana" ovat samat.
+WS98150010,Verkkoavain ei kelpaa
+WS98150020,Kirjoittamasi verkkoavain on virheellinen.Verkkoavaimessa on oltava 5 tai 8–63 merkkiä käytössä olevan suojausmenetelmän mukaan.
+WS98150030,Lisätietoja on ohjeessa.
+
+WS98160010,USB-yhteysvirhe
+WS98160020,Varmista, että USB-kaapeli on liitetty laitteeseen.
+WS98160030,Varmista, että laitteeseen on kytketty virta.
+WS99010010,OK
+WS99010020,Peruuta
+WS99010030,L&opeta
+WS99010040,< &Edellinen
+WS99010050,&Seuraava >
+WS99010060,O&hje
+WS99010070,&Päivitä
+WS99010080,Lis&ää
+WS99010090,&Jatka
+WS99010100,&Lisäasetukset
+WS99010110,Valmis
+WS99010130,Miten löydän SSID-nimeni?
+WS99010140,Miten löydän verkkoavaimeni?
+WS99010150,Yritä uudelleen >
+WS99020100,Avoin järjestelmä
+WS99020110,Jaettu avain
+WS99020120,WPA / WPA2-PSK
+WS99020160,LEAP
+WS99020170,EAP-FAST
+WS99020180,PEAP
+WS99020190,EAP-TTLS
+WS99020200,Ei mitään
+WS99020210,WEP
+WS99020220,TKIP
+WS99020230,AES
+WS99020240,CKIP
+WS99020500,EAP-TLS
+WS99030100,EI MITÄÄN
+WS99030110,GTC
+WS99030120,MS-CHAPv2
+WS99030130,CHAP
+WS99030140,MS-CHAP
+WS99030150,PAP
+W999999999,
